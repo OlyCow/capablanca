@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>default_settings.txt</file>
+        <file>build_info.txt</file>
+        <file>team_name_database.txt</file>
+    </qresource>
+</RCC>
