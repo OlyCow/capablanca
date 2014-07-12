@@ -13,6 +13,7 @@
 #include "match.h"
 #include "team.h"
 #include "blockpartylogic.h"
+#include "hoverrepaint.h"
 
 namespace Ui {
 class BlockParty;
@@ -34,7 +35,8 @@ public:
 	void radioButton_team_clicked(QRadioButton* button, Team* team);
 	void lineEdit_num_editingFinished(QLineEdit* line_num, QLineEdit* line_name, Team* team);
 	void lineEdit_name_editingFinished(QLineEdit* lineEdit, Team* team);
-	void verticalSlider_valueChanged(BlockPartyLogic* score, int value);
+	void verticalSlider_valueChanged();
+	void comboBox_currentIndexChanged();
 
 public slots:
 
@@ -76,13 +78,13 @@ private slots:
 	void on_checkBox_hanging_blue_A_toggled(bool checked);
 	void on_checkBox_hanging_blue_B_toggled(bool checked);
 
-	void on_verticalSlider_red_valueChanged(int value);
-	void on_verticalSlider_blue_valueChanged(int value);
+	void on_verticalSlider_red_valueChanged();
+	void on_verticalSlider_blue_valueChanged();
 
-	void on_comboBox_red_A_currentIndexChanged(int index);
-	void on_comboBox_red_B_currentIndexChanged(int index);
-	void on_comboBox_blue_A_currentIndexChanged(int index);
-	void on_comboBox_blue_B_currentIndexChanged(int index);
+	void on_comboBox_red_A_currentIndexChanged();
+	void on_comboBox_red_B_currentIndexChanged();
+	void on_comboBox_blue_A_currentIndexChanged();
+	void on_comboBox_blue_B_currentIndexChanged();
 
 	void on_spinBox_penalty_major_red_valueChanged(int arg1);
 	void on_spinBox_penalty_minor_red_valueChanged(int arg1);

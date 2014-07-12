@@ -22,7 +22,8 @@ SOURCES += main.cpp\
     alertwindow.cpp \
     alliance.cpp \
     score.cpp \
-    blockpartylogic.cpp
+    blockpartylogic.cpp \
+    hoverrepaint.cpp
 
 HEADERS  += startwindow.h \
     aboutwindow.h \
@@ -33,7 +34,8 @@ HEADERS  += startwindow.h \
     alertwindow.h \
     alliance.h \
     score.h \
-    blockpartylogic.h
+    blockpartylogic.h \
+    hoverrepaint.h
 
 FORMS    += startwindow.ui \
     aboutwindow.ui \

@@ -31,6 +31,9 @@ BlockParty::BlockParty(QWidget *parent) :
 	auton_IR_blue->addButton(ui->radioButton_auton_IR_RI_blue);
 	auton_IR_blue->addButton(ui->radioButton_auton_IR_RO_blue);
 
+	HoverRepaint* filter = new HoverRepaint();
+	ui->lineEdit_num_red_A->installEventFilter(filter);
+
 	QObject::connect(score_red, SIGNAL(update_ui()), this, SLOT(update_ui()));
 	QObject::connect(score_blue, SIGNAL(update_ui()), this, SLOT(update_ui()));
 
@@ -299,89 +302,50 @@ void BlockParty::on_checkBox_hanging_blue_B_toggled(bool checked)
 	score_blue->update_internals();
 }
 
-void BlockParty::verticalSlider_valueChanged(BlockPartyLogic* score, int value)
+void BlockParty::verticalSlider_valueChanged()
 {
-	switch (value) {
-		case 0 :
-			score->flag_position = BlockPartyLogic::FLAG_NONE;
-			break;
-		case 1 :
-			score->flag_position = BlockPartyLogic::FLAG_LOW;
-			break;
-		case 2 :
-			score->flag_position = BlockPartyLogic::FLAG_HIGH;
-			break;
-	}
-	score->update_internals();
+	const BlockPartyLogic::FlagPosition flag_value_table[] =
+		{BlockPartyLogic::FLAG_NONE, BlockPartyLogic::FLAG_LOW, BlockPartyLogic::FLAG_HIGH};
+	score_red->flag_position = flag_value_table[ui->verticalSlider_red->value()];
+	score_blue->flag_position = flag_value_table[ui->verticalSlider_blue->value()];
+	score_red->update_internals();
+	score_blue->update_internals();
 }
-void BlockParty::on_verticalSlider_red_valueChanged(int value)
+void BlockParty::on_verticalSlider_red_valueChanged()
 {
-	verticalSlider_valueChanged(score_red, value);
+	verticalSlider_valueChanged();
 }
-void BlockParty::on_verticalSlider_blue_valueChanged(int value)
+void BlockParty::on_verticalSlider_blue_valueChanged()
 {
-	verticalSlider_valueChanged(score_blue, value);
+	verticalSlider_valueChanged();
 }
 
-void BlockParty::on_comboBox_red_A_currentIndexChanged(int index)
+void BlockParty::comboBox_currentIndexChanged()
 {
-	switch (index) {
-		case 0 :
-			score_red->ramp_position_A = BlockPartyLogic::RAMP_OFF;
-			break;
-		case 1 :
-			score_red->ramp_position_A = BlockPartyLogic::RAMP_PARTIAL;
-			break;
-		case 2 :
-			score_red->ramp_position_A = BlockPartyLogic::RAMP_COMPLETE;
-			break;
-	}
+	const BlockPartyLogic::RampPosition ramp_value_table[] =
+		{BlockPartyLogic::RAMP_OFF, BlockPartyLogic::RAMP_PARTIAL, BlockPartyLogic::RAMP_COMPLETE};
+	score_red->ramp_position_A = ramp_value_table[ui->comboBox_red_A->currentIndex()];
+	score_red->ramp_position_B = ramp_value_table[ui->comboBox_red_B->currentIndex()];
+	score_blue->ramp_position_A = ramp_value_table[ui->comboBox_blue_A->currentIndex()];
+	score_blue->ramp_position_B = ramp_value_table[ui->comboBox_blue_B->currentIndex()];
 	score_red->update_internals();
-}
-void BlockParty::on_comboBox_red_B_currentIndexChanged(int index)
-{
-	switch (index) {
-		case 0 :
-			score_red->ramp_position_B = BlockPartyLogic::RAMP_OFF;
-			break;
-		case 1 :
-			score_red->ramp_position_B = BlockPartyLogic::RAMP_PARTIAL;
-			break;
-		case 2 :
-			score_red->ramp_position_B = BlockPartyLogic::RAMP_COMPLETE;
-			break;
-	}
-	score_red->update_internals();
-}
-void BlockParty::on_comboBox_blue_A_currentIndexChanged(int index)
-{
-	switch (index) {
-		case 0 :
-			score_blue->ramp_position_A = BlockPartyLogic::RAMP_OFF;
-			break;
-		case 1 :
-			score_blue->ramp_position_A = BlockPartyLogic::RAMP_PARTIAL;
-			break;
-		case 2 :
-			score_blue->ramp_position_A = BlockPartyLogic::RAMP_COMPLETE;
-			break;
-	}
 	score_blue->update_internals();
 }
-void BlockParty::on_comboBox_blue_B_currentIndexChanged(int index)
+void BlockParty::on_comboBox_red_A_currentIndexChanged()
 {
-	switch (index) {
-		case 0 :
-			score_blue->ramp_position_B = BlockPartyLogic::RAMP_OFF;
-			break;
-		case 1 :
-			score_blue->ramp_position_B = BlockPartyLogic::RAMP_PARTIAL;
-			break;
-		case 2 :
-			score_blue->ramp_position_B = BlockPartyLogic::RAMP_COMPLETE;
-			break;
-	}
-	score_blue->update_internals();
+	comboBox_currentIndexChanged();
+}
+void BlockParty::on_comboBox_red_B_currentIndexChanged()
+{
+	comboBox_currentIndexChanged();
+}
+void BlockParty::on_comboBox_blue_A_currentIndexChanged()
+{
+	comboBox_currentIndexChanged();
+}
+void BlockParty::on_comboBox_blue_B_currentIndexChanged()
+{
+	comboBox_currentIndexChanged();
 }
 
 void BlockParty::on_spinBox_penalty_major_red_valueChanged(int arg1)
