@@ -4,10 +4,12 @@
 BlockParty::BlockParty(QWidget *parent) :
 	QMainWindow(parent),
 	ui(new Ui::BlockParty),
-	auton_red_A(new QButtonGroup()),
-	auton_red_B(new QButtonGroup()),
-	auton_blue_A(new QButtonGroup()),
-	auton_blue_B(new QButtonGroup()),
+	auton_IR_red(new QButtonGroup(this)),
+	auton_IR_blue(new QButtonGroup(this)),
+	auton_red_A(new CheckboxGroup(this)),
+	auton_red_B(new CheckboxGroup(this)),
+	auton_blue_A(new CheckboxGroup(this)),
+	auton_blue_B(new CheckboxGroup(this)),
 	score_red(new BlockPartyLogic()),
 	score_blue(new BlockPartyLogic()),
 	match(new Match())
@@ -20,18 +22,37 @@ BlockParty::BlockParty(QWidget *parent) :
 	ui->lineEdit_num_blue_A->setValidator(new QIntValidator(1, 9999, this));
 	ui->lineEdit_num_blue_B->setValidator(new QIntValidator(1, 9999, this));
 
-	QButtonGroup* auton_IR_red = new QButtonGroup();
 	auton_IR_red->addButton(ui->radioButton_auton_IR_LO_red);
 	auton_IR_red->addButton(ui->radioButton_auton_IR_LI_red);
 	auton_IR_red->addButton(ui->radioButton_auton_IR_RI_red);
 	auton_IR_red->addButton(ui->radioButton_auton_IR_RO_red);
-	QButtonGroup* auton_IR_blue = new QButtonGroup();
 	auton_IR_blue->addButton(ui->radioButton_auton_IR_LO_blue);
 	auton_IR_blue->addButton(ui->radioButton_auton_IR_LI_blue);
 	auton_IR_blue->addButton(ui->radioButton_auton_IR_RI_blue);
 	auton_IR_blue->addButton(ui->radioButton_auton_IR_RO_blue);
 
-	HoverRepaint* filter = new HoverRepaint();
+	auton_red_A->addButton(ui->checkBox_auton_red_A_LO);
+	auton_red_A->addButton(ui->checkBox_auton_red_A_LI);
+	auton_red_A->addButton(ui->checkBox_auton_red_A_RI);
+	auton_red_A->addButton(ui->checkBox_auton_red_A_RO);
+	auton_red_A->addButton(ui->checkBox_auton_red_A_floor);
+	auton_red_B->addButton(ui->checkBox_auton_red_B_LO);
+	auton_red_B->addButton(ui->checkBox_auton_red_B_LI);
+	auton_red_B->addButton(ui->checkBox_auton_red_B_RI);
+	auton_red_B->addButton(ui->checkBox_auton_red_B_RO);
+	auton_red_B->addButton(ui->checkBox_auton_red_B_floor);
+	auton_blue_A->addButton(ui->checkBox_auton_blue_A_LO);
+	auton_blue_A->addButton(ui->checkBox_auton_blue_A_LI);
+	auton_blue_A->addButton(ui->checkBox_auton_blue_A_RI);
+	auton_blue_A->addButton(ui->checkBox_auton_blue_A_RO);
+	auton_blue_A->addButton(ui->checkBox_auton_blue_A_floor);
+	auton_blue_B->addButton(ui->checkBox_auton_blue_B_LO);
+	auton_blue_B->addButton(ui->checkBox_auton_blue_B_LI);
+	auton_blue_B->addButton(ui->checkBox_auton_blue_B_RI);
+	auton_blue_B->addButton(ui->checkBox_auton_blue_B_RO);
+	auton_blue_B->addButton(ui->checkBox_auton_blue_B_floor);
+
+	HoverRepaint* filter = new HoverRepaint(this);
 	ui->lineEdit_num_red_A->installEventFilter(filter);
 
 	QObject::connect(score_red, SIGNAL(update_ui()), this, SLOT(update_ui()));

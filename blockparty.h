@@ -14,6 +14,7 @@
 #include "team.h"
 #include "blockpartylogic.h"
 #include "hoverrepaint.h"
+#include "checkboxgroup.h"
 
 namespace Ui {
 class BlockParty;
@@ -123,10 +124,12 @@ private slots:
 
 private:
 	Ui::BlockParty *ui;
-	QButtonGroup* auton_red_A;
-	QButtonGroup* auton_red_B;
-	QButtonGroup* auton_blue_A;
-	QButtonGroup* auton_blue_B;
+	QButtonGroup* auton_IR_red;
+	QButtonGroup* auton_IR_blue;
+	CheckboxGroup* auton_red_A;
+	CheckboxGroup* auton_red_B;
+	CheckboxGroup* auton_blue_A;
+	CheckboxGroup* auton_blue_B;
 
 	void update_internals();
 	QString fetchTeamName(int number_input);
