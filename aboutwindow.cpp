@@ -7,7 +7,7 @@ AboutWindow::AboutWindow(QWidget *parent) :
 {
 	ui->setupUi(this);
 
-	QFile build_info(":/build_info.txt");
+	QFile build_info(":/data/build_info.txt");
 	build_info.open(QIODevice::ReadOnly | QIODevice::Text);
 	QTextStream input(&build_info);
 	QString line = "";

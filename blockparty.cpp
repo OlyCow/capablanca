@@ -64,6 +64,12 @@ BlockParty::BlockParty(QWidget *parent) :
 BlockParty::~BlockParty()
 {
 	delete ui;
+	delete auton_IR_red;
+	delete auton_IR_blue;
+	delete auton_red_A;
+	delete auton_red_B;
+	delete auton_blue_A;
+	delete auton_blue_B;
 	delete score_red;
 	delete score_blue;
 	delete home_team;
@@ -139,7 +145,7 @@ void BlockParty::on_lineEdit_num_blue_B_editingFinished()
 QString BlockParty::fetchTeamName(int number_input)
 {
 	QString number_input_str = QString::number(number_input);
-	QFile names_list(":/team_name_database.txt");
+	QFile names_list(":/data/team_name_database.txt");
 	names_list.open(QIODevice::ReadOnly | QIODevice::Text);
 	QTextStream input(&names_list);
 	QString line = "";
@@ -455,42 +461,8 @@ void BlockParty::on_radioButton_auton_IR_RO_blue_clicked()
 	score_blue->update_internals();
 }
 
-void BlockParty::uncheck_red_A()
-{
-	ui->checkBox_auton_red_A_LO->setChecked(false);
-	ui->checkBox_auton_red_A_LI->setChecked(false);
-	ui->checkBox_auton_red_A_RI->setChecked(false);
-	ui->checkBox_auton_red_A_RO->setChecked(false);
-	ui->checkBox_auton_red_A_floor->setChecked(false);
-}
-void BlockParty::uncheck_red_B()
-{
-	ui->checkBox_auton_red_B_LO->setChecked(false);
-	ui->checkBox_auton_red_B_LI->setChecked(false);
-	ui->checkBox_auton_red_B_RI->setChecked(false);
-	ui->checkBox_auton_red_B_RO->setChecked(false);
-	ui->checkBox_auton_red_B_floor->setChecked(false);
-}
-void BlockParty::uncheck_blue_A()
-{
-	ui->checkBox_auton_blue_A_LO->setChecked(false);
-	ui->checkBox_auton_blue_A_LI->setChecked(false);
-	ui->checkBox_auton_blue_A_RI->setChecked(false);
-	ui->checkBox_auton_blue_A_RO->setChecked(false);
-	ui->checkBox_auton_blue_A_floor->setChecked(false);
-}
-void BlockParty::uncheck_blue_B()
-{
-	ui->checkBox_auton_blue_B_LO->setChecked(false);
-	ui->checkBox_auton_blue_B_LI->setChecked(false);
-	ui->checkBox_auton_blue_B_RI->setChecked(false);
-	ui->checkBox_auton_blue_B_RO->setChecked(false);
-	ui->checkBox_auton_blue_B_floor->setChecked(false);
-}
-
 void BlockParty::on_checkBox_auton_red_A_LO_clicked(bool checked)
 {
-	uncheck_red_A();
 	if (checked) {
 		score_red->auton_block_A = BlockPartyLogic::BEACON_LO;
 	} else {
@@ -500,7 +472,6 @@ void BlockParty::on_checkBox_auton_red_A_LO_clicked(bool checked)
 }
 void BlockParty::on_checkBox_auton_red_A_LI_clicked(bool checked)
 {
-	uncheck_red_A();
 	if (checked) {
 		score_red->auton_block_A = BlockPartyLogic::BEACON_LI;
 	} else {
@@ -510,7 +481,6 @@ void BlockParty::on_checkBox_auton_red_A_LI_clicked(bool checked)
 }
 void BlockParty::on_checkBox_auton_red_A_RI_clicked(bool checked)
 {
-	uncheck_red_A();
 	if (checked) {
 		score_red->auton_block_A = BlockPartyLogic::BEACON_RI;
 	} else {
@@ -520,7 +490,6 @@ void BlockParty::on_checkBox_auton_red_A_RI_clicked(bool checked)
 }
 void BlockParty::on_checkBox_auton_red_A_RO_clicked(bool checked)
 {
-	uncheck_red_A();
 	if (checked) {
 		score_red->auton_block_A = BlockPartyLogic::BEACON_RO;
 	} else {
@@ -530,7 +499,6 @@ void BlockParty::on_checkBox_auton_red_A_RO_clicked(bool checked)
 }
 void BlockParty::on_checkBox_auton_red_A_floor_clicked(bool checked)
 {
-	uncheck_red_A();
 	if (checked) {
 		score_red->auton_block_A = BlockPartyLogic::AUTON_FLOOR;
 	} else {
@@ -540,7 +508,6 @@ void BlockParty::on_checkBox_auton_red_A_floor_clicked(bool checked)
 }
 void BlockParty::on_checkBox_auton_red_B_LO_clicked(bool checked)
 {
-	uncheck_red_B();
 	if (checked) {
 		score_red->auton_block_B = BlockPartyLogic::BEACON_LO;
 	} else {
@@ -550,7 +517,6 @@ void BlockParty::on_checkBox_auton_red_B_LO_clicked(bool checked)
 }
 void BlockParty::on_checkBox_auton_red_B_LI_clicked(bool checked)
 {
-	uncheck_red_B();
 	if (checked) {
 		score_red->auton_block_B = BlockPartyLogic::BEACON_LI;
 	} else {
@@ -560,7 +526,6 @@ void BlockParty::on_checkBox_auton_red_B_LI_clicked(bool checked)
 }
 void BlockParty::on_checkBox_auton_red_B_RI_clicked(bool checked)
 {
-	uncheck_red_B();
 	if (checked) {
 		score_red->auton_block_B = BlockPartyLogic::BEACON_RI;
 	} else {
@@ -570,7 +535,6 @@ void BlockParty::on_checkBox_auton_red_B_RI_clicked(bool checked)
 }
 void BlockParty::on_checkBox_auton_red_B_RO_clicked(bool checked)
 {
-	uncheck_red_B();
 	if (checked) {
 		score_red->auton_block_B = BlockPartyLogic::BEACON_RO;
 	} else {
@@ -580,7 +544,6 @@ void BlockParty::on_checkBox_auton_red_B_RO_clicked(bool checked)
 }
 void BlockParty::on_checkBox_auton_red_B_floor_clicked(bool checked)
 {
-	uncheck_red_B();
 	if (checked) {
 		score_red->auton_block_B = BlockPartyLogic::AUTON_FLOOR;
 	} else {
@@ -591,7 +554,6 @@ void BlockParty::on_checkBox_auton_red_B_floor_clicked(bool checked)
 
 void BlockParty::on_checkBox_auton_blue_A_LO_clicked(bool checked)
 {
-	uncheck_blue_A();
 	if (checked) {
 		score_blue->auton_block_A = BlockPartyLogic::BEACON_LO;
 	} else {
@@ -601,7 +563,6 @@ void BlockParty::on_checkBox_auton_blue_A_LO_clicked(bool checked)
 }
 void BlockParty::on_checkBox_auton_blue_A_LI_clicked(bool checked)
 {
-	uncheck_blue_A();
 	if (checked) {
 		score_blue->auton_block_A = BlockPartyLogic::BEACON_LI;
 	} else {
@@ -611,7 +572,6 @@ void BlockParty::on_checkBox_auton_blue_A_LI_clicked(bool checked)
 }
 void BlockParty::on_checkBox_auton_blue_A_RI_clicked(bool checked)
 {
-	uncheck_blue_A();
 	if (checked) {
 		score_blue->auton_block_A = BlockPartyLogic::BEACON_RI;
 	} else {
@@ -621,7 +581,6 @@ void BlockParty::on_checkBox_auton_blue_A_RI_clicked(bool checked)
 }
 void BlockParty::on_checkBox_auton_blue_A_RO_clicked(bool checked)
 {
-	uncheck_blue_A();
 	if (checked) {
 		score_blue->auton_block_A = BlockPartyLogic::BEACON_RO;
 	} else {
@@ -631,7 +590,6 @@ void BlockParty::on_checkBox_auton_blue_A_RO_clicked(bool checked)
 }
 void BlockParty::on_checkBox_auton_blue_A_floor_clicked(bool checked)
 {
-	uncheck_blue_A();
 	if (checked) {
 		score_blue->auton_block_A = BlockPartyLogic::AUTON_FLOOR;
 	} else {
@@ -641,7 +599,6 @@ void BlockParty::on_checkBox_auton_blue_A_floor_clicked(bool checked)
 }
 void BlockParty::on_checkBox_auton_blue_B_LO_clicked(bool checked)
 {
-	uncheck_blue_B();
 	if (checked) {
 		score_blue->auton_block_B = BlockPartyLogic::BEACON_LO;
 	} else {
@@ -651,7 +608,6 @@ void BlockParty::on_checkBox_auton_blue_B_LO_clicked(bool checked)
 }
 void BlockParty::on_checkBox_auton_blue_B_LI_clicked(bool checked)
 {
-	uncheck_blue_B();
 	if (checked) {
 		score_blue->auton_block_B = BlockPartyLogic::BEACON_LI;
 	} else {
@@ -661,7 +617,6 @@ void BlockParty::on_checkBox_auton_blue_B_LI_clicked(bool checked)
 }
 void BlockParty::on_checkBox_auton_blue_B_RI_clicked(bool checked)
 {
-	uncheck_blue_B();
 	if (checked) {
 		score_blue->auton_block_B = BlockPartyLogic::BEACON_RI;
 	} else {
@@ -671,7 +626,6 @@ void BlockParty::on_checkBox_auton_blue_B_RI_clicked(bool checked)
 }
 void BlockParty::on_checkBox_auton_blue_B_RO_clicked(bool checked)
 {
-	uncheck_blue_B();
 	if (checked) {
 		score_blue->auton_block_B = BlockPartyLogic::BEACON_RO;
 	} else {
@@ -681,7 +635,6 @@ void BlockParty::on_checkBox_auton_blue_B_RO_clicked(bool checked)
 }
 void BlockParty::on_checkBox_auton_blue_B_floor_clicked(bool checked)
 {
-	uncheck_blue_B();
 	if (checked) {
 		score_blue->auton_block_B = BlockPartyLogic::AUTON_FLOOR;
 	} else {

@@ -253,12 +253,32 @@ Nuclear Fallout!</string>
         <property name="text">
          <string>Help</string>
         </property>
+        <property name="icon">
+         <iconset resource="resources.qrc">
+          <normaloff>:/icons/icons/appbar.book.png</normaloff>:/icons/icons/appbar.book.png</iconset>
+        </property>
+        <property name="iconSize">
+         <size>
+          <width>24</width>
+          <height>24</height>
+         </size>
+        </property>
        </widget>
       </item>
       <item row="0" column="3">
        <widget class="QPushButton" name="button_settings">
         <property name="text">
          <string>Settings</string>
+        </property>
+        <property name="icon">
+         <iconset resource="resources.qrc">
+          <normaloff>:/icons/icons/appbar.settings.png</normaloff>:/icons/icons/appbar.settings.png</iconset>
+        </property>
+        <property name="iconSize">
+         <size>
+          <width>24</width>
+          <height>24</height>
+         </size>
         </property>
        </widget>
       </item>
@@ -281,12 +301,32 @@ Nuclear Fallout!</string>
         <property name="text">
          <string>About</string>
         </property>
+        <property name="icon">
+         <iconset resource="resources.qrc">
+          <normaloff>:/icons/icons/appbar.info.png</normaloff>:/icons/icons/appbar.info.png</iconset>
+        </property>
+        <property name="iconSize">
+         <size>
+          <width>24</width>
+          <height>24</height>
+         </size>
+        </property>
        </widget>
       </item>
       <item row="0" column="4">
        <widget class="QPushButton" name="button_report_bugs">
         <property name="text">
          <string>Report Bugs</string>
+        </property>
+        <property name="icon">
+         <iconset resource="resources.qrc">
+          <normaloff>:/icons/icons/appbar.bug.png</normaloff>:/icons/icons/appbar.bug.png</iconset>
+        </property>
+        <property name="iconSize">
+         <size>
+          <width>24</width>
+          <height>24</height>
+         </size>
         </property>
        </widget>
       </item>
@@ -314,6 +354,8 @@ Nuclear Fallout!</string>
   <tabstop>button_report_bugs</tabstop>
   <tabstop>button_about</tabstop>
  </tabstops>
- <resources/>
+ <resources>
+  <include location="resources.qrc"/>
+ </resources>
  <connections/>
 </ui>

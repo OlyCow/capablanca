@@ -133,10 +133,6 @@ private:
 
 	void update_internals();
 	QString fetchTeamName(int number_input);
-	void uncheck_red_A();
-	void uncheck_red_B();
-	void uncheck_blue_A();
-	void uncheck_blue_B();
 };
 
 #endif // BLOCKPARTY_H

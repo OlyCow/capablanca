@@ -1,7 +1,25 @@
 <RCC>
-    <qresource prefix="/">
+    <qresource prefix="/data">
         <file>default_settings.txt</file>
         <file>build_info.txt</file>
         <file>team_name_database.txt</file>
+    </qresource>
+    <qresource prefix="/icons">
+        <file>icons/appbar.control.fastforward.png</file>
+        <file>icons/appbar.control.pause.png</file>
+        <file>icons/appbar.control.play.png</file>
+        <file>icons/appbar.control.rewind.png</file>
+        <file>icons/appbar.control.stop.png</file>
+        <file>icons/appbar.info.png</file>
+        <file>icons/appbar.page.multiple.png</file>
+        <file>icons/appbar.page.single.png</file>
+        <file>icons/appbar.settings.png</file>
+        <file>icons/appbar.redo.png</file>
+        <file>icons/appbar.undo.png</file>
+        <file>icons/appbar.book.png</file>
+        <file>icons/appbar.bug.png</file>
+        <file>icons/appbar.delete.png</file>
+        <file>icons/appbar.edit.png</file>
+        <file>icons/appbar.alert.png</file>
     </qresource>
 </RCC>
