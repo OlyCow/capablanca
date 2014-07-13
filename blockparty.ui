@@ -697,7 +697,8 @@
            </size>
           </property>
           <property name="styleSheet">
-           <string notr="true">color: red</string>
+           <string notr="true">color: white;
+background-color: red;</string>
           </property>
           <property name="text">
            <string/>
@@ -831,7 +832,8 @@
            </font>
           </property>
           <property name="styleSheet">
-           <string notr="true">color: red</string>
+           <string notr="true">color: white;
+background-color: red;</string>
           </property>
           <property name="maxLength">
            <number>4</number>
@@ -1842,8 +1844,8 @@
           <rect>
            <x>0</x>
            <y>0</y>
-           <width>252</width>
-           <height>297</height>
+           <width>242</width>
+           <height>275</height>
           </rect>
          </property>
          <attribute name="label">
@@ -2278,8 +2280,8 @@
           <rect>
            <x>0</x>
            <y>0</y>
-           <width>252</width>
-           <height>297</height>
+           <width>248</width>
+           <height>139</height>
           </rect>
          </property>
          <attribute name="label">
