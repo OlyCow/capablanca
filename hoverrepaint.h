@@ -11,10 +11,10 @@ class HoverRepaint : public QObject
 	Q_OBJECT
 
 public:
-	HoverRepaint();
+	HoverRepaint(QObject *parent);
 
 private:
-	bool repaintLineEdit(QLineEdit* obj, QEvent* event);
+	bool eventFilter(QObject* obj, QEvent* event);
 };
 
 #endif // HOVERREPAINT_H

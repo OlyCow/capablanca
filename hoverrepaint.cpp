@@ -1,17 +1,21 @@
 #include "hoverrepaint.h"
 
-HoverRepaint::HoverRepaint()
+HoverRepaint::HoverRepaint(QObject* parent):
+	QObject(parent)
 {
 }
 
-bool HoverRepaint::repaintLineEdit(QLineEdit* obj, QEvent* event)
+bool HoverRepaint::eventFilter(QObject* obj, QEvent* event)
 {
+	bool did_process = false;
 	switch (event->type()) {
 		case QEvent::HoverEnter :
 		case QEvent::HoverMove :
 		case QEvent::HoverLeave :
-			obj->repaint();
+			QLineEdit* edit = static_cast<QLineEdit*>(obj);
+			edit->repaint();
+			did_process = true;
 			break;
 	}
-	return true;
+	return did_process;
 }

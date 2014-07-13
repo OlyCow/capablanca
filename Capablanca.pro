@@ -23,7 +23,9 @@ SOURCES += main.cpp\
     alliance.cpp \
     score.cpp \
     blockpartylogic.cpp \
-    hoverrepaint.cpp
+    hoverrepaint.cpp \
+    checkboxgroupfilter.cpp \
+    checkboxgroup.cpp
 
 HEADERS  += startwindow.h \
     aboutwindow.h \
@@ -35,7 +37,9 @@ HEADERS  += startwindow.h \
     alliance.h \
     score.h \
     blockpartylogic.h \
-    hoverrepaint.h
+    hoverrepaint.h \
+    checkboxgroupfilter.h \
+    checkboxgroup.h
 
 FORMS    += startwindow.ui \
     aboutwindow.ui \
