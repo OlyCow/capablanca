@@ -3,10 +3,12 @@
 
 StartWindow::StartWindow(QWidget *parent) :
 	QMainWindow(parent),
-	ui(new Ui::StartWindow)
+	ui(new Ui::StartWindow),
+	aboutWindow(new AboutWindow(this)),
+	ringItUp(new RingItUp(this)),
+	blockParty(new BlockParty(this))
 {
 	ui->setupUi(this);
-	aboutWindow = new AboutWindow(this);
 
 	updateSeason(default_season);
 	ui->scrollArea->horizontalScrollBar()->setValue(season_to_button(default_season)->x());
@@ -14,7 +16,6 @@ StartWindow::StartWindow(QWidget *parent) :
 
 StartWindow::~StartWindow()
 {
-	delete alertWindow;
 	delete ringItUp;
 	delete blockParty;
 	delete aboutWindow;
@@ -188,11 +189,9 @@ void StartWindow::on_button_score_released()
 			alertWindow->show();
 			break;
 		case SEASON_RING_IT_UP :
-			ringItUp = new RingItUp(this);
 			ringItUp->show();
 			break;
 		case SEASON_BLOCK_PARTY :
-			blockParty = new BlockParty(this);
 			blockParty->show();
 			break;
 		default :
@@ -206,16 +205,19 @@ void StartWindow::on_button_report_bugs_clicked()
 {
 	alertWindow = new AlertWindow(this, QString("Sorry, we're not accepting bug reports yet."));
 	alertWindow->show();
+	alertWindow->setAttribute(Qt::WA_DeleteOnClose);
 }
 
 void StartWindow::on_button_settings_clicked()
 {
 	alertWindow = new AlertWindow(this, QString("There aren't even settings to change yet!"));
 	alertWindow->show();
+	alertWindow->setAttribute(Qt::WA_DeleteOnClose);
 }
 
 void StartWindow::on_button_help_clicked()
 {
 	alertWindow = new AlertWindow(this, QString("Help? Help. Help! HELP!!!!"));
 	alertWindow->show();
+	alertWindow->setAttribute(Qt::WA_DeleteOnClose);
 }

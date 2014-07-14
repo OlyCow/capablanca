@@ -1,551 +1,3298 @@
 ﻿1:		Team Unlimited
+7:		Pajama Suits
+18:		Techno Chix
+22:		100 Scholars
 25:		Rock 'n Roll Robots
+28:		PolyGnomes
 33:		Enigma
+36:		Wyverns
+37:		Rising Tide
+38:		The PAKBOTS
+39:		The Gingerbread Men
+40:		HAX
+54:		Gr3y Matt3r
 55:		Miners
+61:		OZONE
+71:		Octopi
+72:		GarageBots
+88:		Gouverneur Central
+92:		Junior Bomb Squad
+110:	MFS Foxes
+111:	MiniStang
 112:	RoboKnights of the Round Table
+116:	Crazy Eights
+118:	Steel Hornets
+121:	Rhode Rage I
 123:	Vanguard
+127:	The Fighting Pickles
 130:	"Blazing Paranormals"
 133:	Arrows
+135:	Fusion
+137:	Franklin Academy
+140:	Norwood Norfolk Central School
+147:	Montclair Momentum
+149:	Hawks
+150:	Justice
+153:	OFA Robotics
+154:	Renegade
+178:	SD30 Robotics
+187:	Not Determined Yet
+194:	Out of the Blue
+201:	The Robo Broncos
+204:	Bruin Tech
+205:	Screw Loose
+207:	Critical Mass
+208:	KC Robotics Team
+220:	Spartans
+221:	Spartans
+226:	OHS 623 FTC Team 1
+230:	Ampere
+237:	MFS Hawks
+247:	The Game
+248:	Fatal Error
+249:	Razor Robotics 
+250:	Ninja Pirates
 251:	Mech-alodons
 252:	Robo Warriors
+257:	Cougarbotics
+260:	Static Shock Camels
+265:	Viking Robotics 
+267:	EMP
 273:	Tigers
+288:	Spare Parts
+289:	Robohawks 289
+290:	Robohawks 290
+291:	Team 291
+293:	Cape Squad
+309:	K-Bot
+310:	Stuy Fission
+311:	Fembots
+322:	SciTech
+327:	Gamma Factor
+329:	Chicago Squires
+336:	4-HTWX
+339:	Forge Robotics
+342:	Hopewell Gear Heads
+343:	Blue Devils
+348:	Lightning
+354:	ILITE Prime
 358:	The Gaulbots
 359:	The Gaulbots2
+360:	The Revolution
+364:	Warriors
 365:	MOE (The Miracle Workerz)
+367:	High School Team
+369:	OHS 623 FTC Team 2
+378:	War Bot's
+389:	RoboBees
+391:	Mighty Irish
+392:	Nerds of Steel
+395:	Robauktics
+403:	The Force
+404:	Impulse
+405:	Blue Crew
+406:	406
+407:	407
+408:	408
+409:	Aluminati
 417:	Swerve Alpha  
+436:	HAZE
+447:	2 Much Sense
 450:	Children of the Swamp
+452:	PHI Alpha
+455:	PewPewLazerBeams
+458:	Activate GO Initiative
+479:	Stuy Fusion
+496:	RoboCats
+499:	NanoFusion
+505:	Knights
+506:	Pandara
+516:	Gears of Fire
+519:	ED Too
+524:	Boss Bots
+525:	Success
+534:	STAR Techs
 535:	Tobor
 542:	WHS Robotics
+548:	Geek Squad
+560:	*STAR*
+577:	Wreckers Robotics
+583:	Cavaliers
+596:	Transformerz
+607:	Dragon Slayers
+608:	The Phoenix
+619:	Mecha Makos
+620:	Red Raiders
+633:	Supernormal Incremental Precipitation Inducers
+647:	Robotigers Delta
+651:	Sabers
+652:	UNDERDOGS
+657:	RhodeBOTS
+668:	Art's Legacy
+669:	Milpitas Xtreme Robotics
+673:	Endians
+676:	Blue RoboDragon
+679:	RoboRaiders
+689:	Nerds on Fire
+701:	Powell Rangers
+712:	RoboWorks
+724:	RedNek Robotics Wun
 731:	Wannabee Strange
+741:	Raiders
+750:	Gears in Motion
+753:	EnTech
+755:	The Mechanical Wave
+756:	TEST Team
+757:	Suburban Legends
+760:	Metal Menace
+772:	Holocron
+779:	Wildcats
+785:	The Pathfinders
 796:	Wolves
+839:	MIGHTY Mechanics
+965:	Shark Mafia
+975:	Synergy
+1002:	CircuitRunners
+1033:	Team CLUTCH
+1102:	M'Aiken Tech Magic
+1369:	Minotaur
 1691:	Eagles
+1793:	The Pilots
+1885:	ILitening Robotics
+1983:	Skunk Works Black
+2408:	Shrapnel Sergeants
+2425:	Hydra
+2753:	Team Overdrive
+2801:	Cardinals
+2803:	Raptor Robotics
+2818:	The Original G-FORCE
+2821:	CART
+2825:	Raider Robot Riot 
+2827:	Artificial Stupidity
+2833:	Midwest 2
+2835:	Green Grizz
+2836:	Red Team
+2844:	Valley X
+2845:	Team Duct Tape
+2856:	Sector SAAS
+2858:	Sparbots
+2866:	Green Army Robotics - Covert Division
+2867:	Green Army Robotics - Armored Division
+2868:	Smoke and Mirrors
 2873:	Robobuffs
+2875:	MightyBots
+2885:	Kronos
+2887:	Edina Bucket Brigade
+2888:	Oddly Charged Particles
+2891:	WarriorBorgs
+2897:	Grizzl-E
+2898:	The BaronBots
 2901:	Purple Gears
-3019:	Robo Chiefs - B
+2923:	Robowarriors
+2926:	T-Robots
+2927:	Cold Steel
+2929:	Brit Bot
+2930:	Saint Servos
+2940:	Wave Riders
+2944:	T-REX
+2962:	RoboWarriors
+2963:	Lincoln Robotics
+2973:	Zotbotz
+2974:	Scrap Metal
+2981:	Red RoboDragon
+2993:	Bronze RoboDragon
+2997:	Beauty Bot and the Beasts
+3006:	TeraBots
+3007:	Robotic Rams
+3013:	The Nerd Herd
+3018:	Chill Out!
+3029:	Clockwork
+3031:	Robo Hawks
+3032:	The Brick Squad
+3033:	ETA Roosevelt Robo Riders Robotics
+3035:	Royal Robotics
+3039:	SAMIBots
+3043:	Canton Central School
+3050:	G-Bots
+3053:	Knights Robotics
+3055:	Dark Knights
+3057:	Girls Like Bots
+3058:	Jury Riggers
+3073:	Massive D
+3077:	Zinc Iridium
+3081:	Trial and Error
+3083:	Dragon Chasers
+3085:	Higgs Bots
+3093:	Apex
+3101:	Boom Bots
+3111:	SMART
+3113:	Some Disassembly Required
+3116:	Robo Warriors
+3123:	Spontaneous Combustion
+3127:	We can do it
+3129:	Mixed
+3149:	Terminatas
+3157:	Williston Wildcat Robotics
+3162:	HHS Gearheads
+3188:	Squiggle Splat Bang
 3208:	Rookeez
+3210:	Robo-Cowboys
+3216:	Robophins
+3222:	Robocats
+3231:	SyZyGy
+3237:	Titan Robotics Team 2
+3253:	Metal Lions
+3260:	MegBot
+3261:	Nuclear Thought Processes
+3273:	Absolute Zero
+3283:	SciBots
+3296:	The Blue Angels
+3305:	Scibots2
+3345:	Murphy's Law
 3346:	The Robo Chiefs
+3351:	Tater Bots
+3360:	Team Caffeine
+3371:	Bötley Crüe
+3372:	Upward Bound
+3385:	League of Veterans
+3387:	The Bakery
+3391:	RetroVirus
+3397:	Cyborg Gentleman Crabs
+3398:	Darth Panthers Alpha
+3409:	Astromechs
+3415:	Lancers
+3419:	Banneker Warrior Bots
+3438:	Jabberwocky
+3439:	DragonTechs
+3470:	The Patriots
+3477:	Geeks in Just Their Underpants
+3479:	Generals
+3480:	FrostByte
+3486:	Techno Warriors Advanced
+3492:	Team Zip Tie
 3493:	VHS Robotics Club
+3496:	Strange Youngsterz
 3497:	Kings
 3499:	Da 'Bots
 3501:	Jaegers
+3502:	The Killer Whales
+3505:	Cadet Bot Crew
+3507:	RoboTheosis
+3511:	Pink Duct Tape
 3513:	Domo Arigato
+3523:	Bot Bosses
+3525:	BanksBots, The Farewell Tour
 3526:	M-BOTs
+3527:	L.E.A.P.  F.R.O.G.S.
+3537:	The MechaHampsters
+3539:	Say Watt?
+3540:	RoboBoogie
+3543:	Titan Robotics
+3547:	Pixel Warriors
+3548:	Team Trial and Error
+3549:	Born to Be Wired
+3550:	Beta
+3558:	Fire Breathing Yetis
+3565:	Ghost Robotics 1
+3567:	Fear The Gear
+3568:	ICE Wolves
+3577:	Bounty
 3578:	Warriors
-3582:	Robo Chiefs - A
-3583:	Power Hawks
-3591:	The QUARKS
-3592:	The MESONS
+3582:	MASS Madness
+3583:	Ms. Power Hawks
+3584:	CCA Brobotics
+3587:	Unparalleled Processing
+3589:	Task Force
+3591:	QUARKs
+3592:	MESONs
+3594:	Robo Hawks
+3595:	Schrödinger's Hat
+3597:	Knights
+3600:	ElectroJackets
+3608:	Robocto Pi
+3609:	Polar Technics
+3615:	Blue Screen
+3620:	Furious George
+3621:	Semper Fi
+3626:	Tech Dogs
+3627:	Rogue Robots
 3633:	Bazinga Bot
+3634:	KISS
+3635:	Cougars Gone Wired
+3638:	Atomic Shock II
+3640:	Metal Militia
+3641:	PPS Robotics
+3648:	Beehive Robotics
 3650:	Torrey Techies
-3658:	The BOSONS
-3697:	Devastatorz
+3654:	Gipsy Avengers
+3658:	BOSONs
+3664:	Girls With Attitude
+3665:	Leopold GearHeads
+3666:	Hawks
+3668:	Smokie Jr.
+3670:	Metal Mustangs
+3677:	Prometheus
+3679:	Odyssey
+3694:	Brattle Battle Bots
+3695:	Robo Pirates
+3697:	Mark III
+3699:	Ridgineering Robotics
+3708:	Iron Eagles Optimus
+3712:	Purple F.E.A.R. (Fierce Eagle Advanced Robotics)
+3715:	Hawks
+3719:	Bionic Raiders
+3722:	Monkeys of meyhem
+3724:	Bull Dogs
+3727:	Hot Stuff
+3731:	Bot Jox
+3733:	Golden Hawks
+3734:	Imperial Robotics
+3735:	Apex Robotics
+3736:	Serious Business
+3737:	Hank's Tanks
+3738:	3738Robotics
 3740:	RoboRams
+3744:	LREI Robotics
+3746:	NECO Robo Knights
+3749:	WaWIFATuM
+3750:	Error: 404
+3755:	Yanza Fuo 
+3758:	Aztec Eagles
+3763:	Piece of Cake
+3764:	Extendomatics
+3766:	Thunderbolts
+3774:	Hive Voltage
+3781:	Westlake Pi-Rho Maniacs
+3784:	Red Neck Robotics
+3785:	Beastie Bots
+3788:	Benton Bobcats
+3791:	Ziptiez
+3792:	SunChasers
+3795:	JagWired
 3796:	Talons
+3802:	Long Shots
+3803:	Lakeside Knights
+3804:	Team Snuffleupagus
+3805:	Atomic Robotics
+3819:	Green RoboDragon
+3820:	Gold RoboDragon
+3825:	Awesomebots
+3826:	Crimson Omega
+3827:	B2 
+3830:	SkyNet
+3831:	Golden Eagles
+3836:	Evan
+3838:	Thor
+3839:	NeXT
+3841:	STARbot
+3846:	Maelstrom
 3847:	Team ASCII
+3848:	Shockwave
+3854:	Panther's Rage
+3860:	The Revolution
+3861:	Vashon Pi-r8s "Pirates"
+3863:	Sumner Robotics Club
+3864:	Global Force
+3866:	Blood, Sweat and Gears
+3873:	Scotbotics
+3886:	Quake
+3888:	Greased Lightning
+3896:	Techneetics
+3899:	Humuhumunukunukuapua'a
+3900:	MechaSharks
+3901:	Davies
+3903:	Trash Torque
+3908:	Robotigers Omega
+3909:	Techno Titans
+3916:	/* Apex Androids */
+3921:	ProBotics
+3922:	Modibot
+3923:	The Atomix
+3925:	Cyberpirates
+3928:	AstroNuts
+3931:	RoboCopz
+3938:	Acton Robotics Team
+3939:	Robo GT
+3940:	Room Temperature
+3944:	Team Mercury
+3947:	Fired Up!
+3963:	Backstreet Bots
+3965:	Twisted Metal
+3971:	Rhode Kill
+3972:	Falcon Engineering and Robots
+3976:	Fighting Hornets
+3980:	Cyber Hawks
+3981:	Gold Griffins
+3983:	Highlands Undefined (Divide by 0) 
+4000:	C.O.R.E. Fusion
+4002:	Blackout
+4008:	Brandeis Bronc Botz - Orange
+4009:	Cyberwolves- 4009
+4017:	roboPandas
+4019:	RoboHawks
+4027:	Blood, Sweat and Gears
 4029:	2 Bits and a Byte
+4041:	ClockWorks
+4042:	Garfield
+4046:	Thunder Tech
+4049:	Masai Lions
+4053:	The  Flaming Bunnies 
+4054:	Exploding Radioactive Gearheads
 4055:	Warriors
+4056:	Foss High School
+4060:	Wilson High School 4
+4064:	Rez Robotics
+4070:	Live Wires
+4076:	RoBUGs
+4077:	MASH
 4081:	The Droids
+4082:	RoboSpartans
+4083:	Cyber Lions
+4084:	Brooke Point Robotics
+4086:	ORC
+4087:	Bearded Beauties
+4089:	LCA Eagles - Alpha
+4090:	LCA Eagles - Bravo
+4092:	Nanites
+4093:	Gears
+4096:	T-10   ("T minus Ten")
+4097:	PacBots
+4100:	Darbots 1
+4102:	CHS Cougars
+4104:	Robo Lobo
+4105:	Teal Tornadoes
 4106:	Supposable Thumbs
+4107:	Mohon Bots
+4108:	Get with the Program
+4112:	Warriors
+4115:	Men in Kilts
+4116:	Scrapyard Scots
+4117:	R@M
 4119:	Brain Nuggets
 4121:	Jacks
+4124:	Minions
+4125:	Jaegar Squad
+4126:	One More
+4127:	BSOD
+4128:	Ultraviolet 
+4130:	2006 - Robotica Santi
+4131:	Mighty Men of Machines
 4133:	Fusion
+4134:	Wrench in the Works
+4135:	Red Alliance
 4137:	IslandBots
+4138:	K-HiTech
+4140:	Fish in the Boat
+4141:	Spears & Gears
+4143:	JV Cuts
+4144:	Engineer Imagineer
+4145:	The Airheads
+4149:	Terabytes
+4150:	Dark Matter
+4152:	B.R.A.T.S.
 4153:	RED
+4155:	Centurion Rougher
+4156:	RoboCats
+4157:	Fire Breathing Rubber Duckies
+4160:	Rough Velcro
+4162:	QBH
+4163:	Robo Warriors
+4164:	Muqtak Mafia
+4165:	Titanium Braves
+4166:	Iron Braves
+4170:	TechnoCrusaders
+4173:	Bionic Bulldogs
+4174:	Atomic Theory
+4175:	The Toxic Avengers
 4176:	The Architechs
+4177:	Highland Robotics
+4183:	ICEBREAKERS
+4185:	Silver Soldiers
+4192:	West County Robotics
+4193:	Those Guys
+4194:	Technomancers
+4200:	The X-Squared Factor
+4210:	SuperNova
+4211:	The Bombers
+4213:	Cyborgeois
 4215:	Hypnotic Robotics
+4216:	Rise of Hephaestus
+4217:	Autobotics
+4218:	LabView Knights
+4220:	Landroids
+4221:	Do You Even Lift?
 4224:	Y Not Robots
-4237:	Hawkbots
+4227:	Error 404
+4232:	Global Dynamics B
+4234:	TechBrick FTC 4234
+4235:	Potential Energy
+4237:	Hordes of Nords
+4238:	Robo Chicken Gator Flys of Papayaland
+4240:	4-H Techno Clovers
+4243:	Vidrini-II
+4244:	Vidrini-I
+4248:	The Onions
+4250:	LIGHTSABERS
 4251:	Cougar Robotics Team
+4258:	Bomb Squad
+4260:	Spanish Inquisition
+4262:	Firebirds
+4266:	Red Dirt Robotics
+4267:	RoboChix
+4270:	Knights who say Ni
+4272:	Mechametrozilla
+4273:	Aluminati
+4275:	Kes
+4276:	Mooch
+4277:	OXYMORONS
+4278:	De.Evolution
+4281:	The MOs
+4283:	CMHS Raiders
+4284:	Mustangs
+4286:	Dragonoids
+4287:	Red Meteors
+4289:	Steel Lightning
+4290:	Purple Haze
+4291:	STEMBots
+4296:	Iridium Falcons
+4298:	The Professionals
+4299:	The Battery Powered Picklejar Heads
 4301:	Tigers
+4306:	Team Bender
+4307:	Team H.A.L.
+4309:	TWOCA
+4311:	Watt The Hex?
+4314:	4314th Aero Squadron
+4318:	Green Machine
+4319:	Halestorm
+4322:	Phi Omega
+4323:	iCATZ
+4324:	Super Ninjas
+4326:	Basement Lions
+4327:	Silver Titans
+4328:	C'est la vie
+4329:	Oelwein Huskies
+4333:	Elite Machinez
+4335:	Tigers
+4337:	DeVry Daemons
+4339:	Powercats
+4344:	Rickrollers
 4345:	ART
+4347:	Nanogurus
+4348:	RoboKnights
+4356:	Gears
+4358:	Team Griffin
+4359:	Winged Warriors
+4360:	BLHS REACH
+4362:	Fox-y Botsters
 4366:	Crimson Quirks 
+4369:	Auto-ma-trons
+4371:	Benton Robotics
+4373:	Firebots
+4377:	SCRAPPERS
+4378:	Organized Chaos
+4379:	GHS2
+4380:	GHS1
+4386:	Nova Knights
+4389:	RoboBucs
+4390:	The Typhoons - Storm Robotics Team
+4396:	Decepticons
+4399:	Autobots
+4405:	Az-Tech Robotics
 4408:	Robots in Plaid
+4410:	Awesomesauce
+4411:	Colbert Gears of Radiation
+4412:	Meta Superiority
+4414:	Team Overdrive
+4416:	Stallions
+4417:	The Venom
+4419:	Bishopbots
+4420:	Trobots
+4421:	Bionic Badgers
+4422:	Red HoloRAMS
+4426:	River Kings Robotics
+4431:	Math Robotics
+4432:	FCS Robotics
 4433:	Smokin' Motors
-4448:	Avanti Avengers
+4434:	Heat Misers!
+4442:	XBOTS
+4443:	Sock Monkeys
+4444:	RoboCats
+4448:	BGIP
+4450:	Wing It!
+4451:	Hephaestus
+4452:	Wolverines
+4454:	HSAdvancement
+4455:	MoHawk Warriors
+4466:	Robots and Brain Bots Inc.
+4469:	Hydra B
+4473:	Team Bluescreens
 4475:	Purple Reign
+4476:	Robo Demons
+4479:	Mecha-Eagles
+4480:	Blue Dwarves
+4486:	Mad Science
+4487:	Highlandbots
+4490:	Skybots
+4491:	Reach
+4492:	Connect-I-Cons
+4494:	WolverBots
+4498:	Robo Warriors 4498
+4507:	Robo Chargers
+4508:	E=mc^Squirreled
+4510:	Techno Jackets
+4511:	Falcons
+4512:	West Torrance Robotics
+4530:	Infinite Resistance
+4531:	Looney Tuned Robotics
+4535:	RedNek Robotics Too
+4537:	DRSS Enterprise
+4539:	Sourdoughs
+4540:	Iron Panda
+4542:	The Nerd Herd
 4543:	Chain Gang
+4545:	ViperBots Slytherin
+4546:	ViperBots SnakeByte
+4548:	Ruf-Nex Robotics
 4549:	Motor Lutherans
+4550:	Metal Madness
+4554:	Robo Mustangs
+4557:	Mass Havoc 
+4560:	NERV
+4565:	Radical Tech
+4567:	Grafton
+4578:	Bakabots
+4585:	CIJE1
+4587:	Red Hot Techie Peppers
+4592:	Nuts and Bolts
+4594:	Team Team
+4600:	Black Knights
+4601:	Black Knights
+4602:	Brandeis Bronc Botz - Blue
 4605:	RoboHackerz
 4606:	Tesla's Titans
-4625:	Kings & Queens
+4607:	A Splash of Magic
+4608:	BoyWonder
+4609:	Zoidbot
+4610:	Control Freaks
+4611:	HydraBot
+4621:	Patriots 
+4625:	Kings and Queens
+4626:	Autobots
 4628:	Suit Bots
+4630:	FeMales
 4631:	Dodgen Robotics
+4633:	Harold and the Pussy Cats
+4634:	FROGBOTS
+4638:	Twisted Metal
+4640:	Banana Dogs
+4641:	RoboSharks
+4644:	Robotic Adrenaline
+4650:	Crusader Robotics: The Agency
+4654:	Jellyfish 
 4662:	Bulldog Robotics
-4664:	NOSIDE 1
+4664:	NOSIDE
 4665:	NOSIDE
+4666:	Loco-Motives
+4668:	I Can't Pronounce That
+4669:	Wait... What?
+4683:	Gatorzillas
+4688:	Reagan Robotic Rattlers
+4691:	Team Quinones
+4692:	Team Alvarado
+4694:	Disco Ninjas
+4698:	VOKS BOTS
+4701:	Brackenbots
+4702:	Dragons
+4704:	SST Stallions
+4707:	Panthers
+4708:	Cyberwolves - 4710
+4709:	Cyberwolves - 4709
+4710:	Cyberwolves - 4708
+4717:	RAH
+4718:	Toltechs Archimedes
+4719:	Toltechs Galileo
+4720:	Toltechs Newton
+4721:	Toltechs Einstein
+4732:	Fresh
+4733:	RoboTech
+4736:	Hyperactive Dynamite
 4745:	Orozco's Army
+4747:	Scotbots
+4749:	Lego Bros.
+4750:	The Untouchables
+4751:	Steel Scorpions 
+4752:	Dino Bots
+4753:	Block Life 
+4754:	Brainiac Maniacs
+4760:	MRBOT
+4761:	Rogue Robotics
+4768:	to be determined
+4769:	deadringer
+4774:	Jesuits
+4775:	Nerds
+4780:	Terraroids
+4781:	MechaKnights
+4782:	The Super Trouble Makers
+4783:	Dynamic
+4784:	Tetricons
+4785:	Anonymous Autonomous
+4787:	HP RAMs
 4790:	Area 52 Robotics
+4792:	RoboDogs
+4798:	Robuffs "A" TEAM
+4800:	RoboCats
+4809:	Botman
+4811:	Toltechs Copernicus
+4812:	Florence Buffaloes - Team One
+4819:	Mechanical Anomaly 
+4821:	RoboBots
+4822:	RoboStars
+4823:	Justice Avengers
+4842:	Alpha Wolves
+4845:	The Grinders
+4847:	CHROME
+4848:	The Gadget
+4849:	The Elitez
+4850:	Robo Panthers
 4855:	Batteries In Black
+4856:	Minnie MASH
+4858:	Cyber Hornets
+4859:	The Outlaws
+4863:	RoboTAG
+4866:	Panthers
+4873:	Tiger Tech
+4874:	Pokéblocks
+4884:	TPT2 
+4885:	GearHeads
+4886:	Robo Junkies
+4887:	Owlbotics 1
+4888:	Cougar Robotics
+4890:	Hive Voltage 2.0
+4891:	Eagles
+4893:	Charger Robotics
+4897:	Bodacious Bulldawgs
+4899:	Vitruvian Can
+4902:	Team CHAOS
+4906:	Midland High Junkyard Dawgs
+4910:	Eagle1
 4914:	Vulcan Robotics
+4916:	Techtris
+4921:	Robocrafters!
+4922:	WHS Robotics Collaboration
+4924:	Tuxedo Pandas
+4929:	STARBUCKS
+4930:	BUCKBOTS
+4932:	Team Minecraft
+4933:	Short Circuits Too
+4934:	Pandamonium
+4936:	Sparks
+4943:	Rockets
+4945:	Teton Gravity Robotics
+4946:	Robo Raiders
+4947:	Cougarobotics
+4949:	Warriors
+4950:	Tino 49ers
+4951:	Wurst Lynx
+4953:	HUE
+4960:	Tiger-Bots
+4963:	Nova
 4964:	Rolla Patriots
-4971:	Absolute Zero
-4972:	Shamans
+4965:	Animatores Romani
+4967:	RoboMagic
+4968:	Demon Robotics
+4969:	Robot-X
+4970:	The Loose Screws
+4977:	LANLords
+4978:	Raider Robotics
+4979:	Cougars
+4982:	Cafe Bot
+4983:	Falcons A-Team
+4990:	PantherBots
+4991:	Gear Freaks
+4992:	FALCONS
+4993:	Operation Rolling Thunder
+4995:	Titanium Tigers
+4997:	Masquerade
+4998:	Q
+4999:	Imagine It
 5002:	Steel Wolves 2.0
+5007:	Lady Raider Robotics
+5010:	Dragons
+5011:	Bot Squad
+5014:	RobotiXX
+5015:	Buffalo Wings
+5016:	Carnivorous Energy
 5017:	RoboEpic
 5020:	KilaBots
+5023:	Bulldogs
 5024:	Tesla Tazers
 5025:	Tesla Fliers
 5026:	Tesla Coils
+5027:	Plan B
+5029:	PowerStackers
+5030:	Lady Bots
+5033:	S and L Robotics
+5035:	WIRED
+5036:	Absent Minded Geniuses
+5037:	got robot?
+5039:	DevilBots
+5040:	Loveland Nuts & Bolts
+5044:	Lgit
+5045:	Tachyons
 5050:	Pelham Robotics Team
+5053:	Clearwater Atomic Robotic Technicians #2
+5057:	VOID
+5058:	Blocktimus Prime
+5060:	Milton Static
 5061:	Capital Gear Grinders
+5062:	Middle School Team
 5063:	TNT
+5064:	Aperture Science
+5065:	TBD
+5067:	Quantum Barracudas
 5069:	Robogamers
-5086:	Tutu Turtles
+5070:	N.U.T.S.
+5072:	Wildcats
+5073:	none
+5075:	Basement Dwellers
+5076:	CyberA
+5080:	Three Stooges
+5084:	B.E.T.
+5085:	Newton's Lawyers
+5086:	Turtles
+5088:	Robo-Eagles
 5089:	Ircinraat
-5095:	The LEPTONS
+5094:	Still Under Development
+5095:	LEPTONs
+5096:	Monkey Madness
+5097:	RoboWild
+5100:	DarBots 2
+5102:	NWA Robotics
 5105:	Conquistadors
-5118:	The HADRONS
+5108:	Amish Electricans
+5113:	Alternative Cooperative Engineering
+5114:	The Knights Who Say C
+5115:	Robo Wizards
+5116:	Pawbotics
+5118:	HADRONs
+5119:	BARYONs
+5120:	Latrodectus Mactans
+5125:	Raiderbots
+5126:	InDEnProCom 
+5131:	Pointers
+5132:	AHERT Ravens
+5135:	Team Uncopyrightable
+5136:	Crusader Creators
+5140:	WACO Aerobotics
+5141:	Warrior Bots
+5142:	Hawkbots
+5143:	Xpendables
+5149:	Robota
+5150:	Raiders
 5151:	Infinity
+5153:	Bobcat 1
+5154:	Da Footur
+5155:	Architects of Freedom
+5156:	The Raminators
+5157:	The Metal That Moves TM
+5158:	T.I.T.A.N.S.
+5161:	Eaglemaniacs
+5163:	Flying Dragon
+5166:	WD41's
+5168:	B3
 5169:	Watts Up?
+5170:	G.E.A.R.S
+5171:	Spacemen Riding Dinosaurs
+5173:	DSA Raptors
+5174:	River king Robotics
+5175:	Vector Robotics
+5177:	Global Dynamics A
 5178:	Mech Hawks
+5179:	Cyberstorm
+5180:	RoboHornets
+5185:	Topsy Turvy
+5186:	PantherBots Alpha
+5187:	Transistor Titans
+5190:	MICDS Rams
+5192:	Robo-Hooters
+5194:	LHS Robotics
+5195:	HIES Night's Watch
+5196:	Team Yeti
+5197:	GearHeads
+5198:	Adamantium
+5199:	Blockheads
+5200:	Robots Incorporated
+5202:	Try to Understand
+5205:	SyBorgs
+5206:	The Knights of Ni
+5209:	Operation: BisonBot
+5211:	Judge Oven
 5212:	Megahertz!
-5221:	HSA Bro-1
+5214:	Tech Support
+5215:	THAT Team
+5220:	nimish@nimishshah.com
+5221:	Chonkanator
+5224:	Deus Ex Machina
+5225:	Tetrixterone
+5230:	Millionaire Mind Kids
+5232:	HAL9000
+5233:	Chapelgate Christian Academy
+5234:	Tiger Steel
+5235:	The Millennium Falcons
+5236:	EuroBots
 5237:	Loose Screws
-5248:	The FERMIONS
+5238:	Bob's Builders in Black
+5241:	Hot Wired
+5247:	Sirens
+5248:	FERMIONs
+5249:	Cooper's Doghouse
+5250:	Loading...
 5251:	Übercharged
+5252:	Insert Name Here
+5253:	Decepticons
+5256:	Spare Parts
 5257:	Eagles Robotics XPerience
+5258:	Tornadoes
+5260:	Lego Legends
+5264:	ILITE Up the Night
+5266:	Black Hawks
+5267:	Channel 4 News Team
+5270:	Q
+5271:	CTRL ALT DELETE
+5273:	Pixelated Tesseracts
+5275:	Minor Malf(x)
 5276:	Broken Code
-5278:	Cyber Researchers
-5326:	The Enterprisers
+5279:	Positrons
+5280:	404 Name Not Found
+5281:	The E-Team Innovators!
+5283:	LAIMO
+5284:	The Kerbals
+5285:	Robo Knights
+5286:	Motor Monkeys
+5289:	Martians
+5290:	Steel Eagles
+5291:	TOWR The Oxford Wildcats Robotics
+5292:	Redstorm Robotics
+5293:	Chapelgate Christian Academy
+5294:	What the heck is Pi
+5298:	The Engineering High Council
+5300:	N.E.R.D. Nation
+5304:	Jaguars
+5308:	Armored Division 
+5309:	Plan B
+5312:	Error 404
+5314:	Blue Nova
+5318:	Primates of Purgatory
+5319:	Wolverines
+5320:	RoboLancers Gold
+5321:	TechHeroes
+5323:	Technobots
+5324:	Black Knight Robotics
+5325:	The Muses
+5328:	Sentinel Prime Bots
+5330:	Robotic Rush
+5332:	Cougar Current
+5333:	Terminal Velocity 
+5334:	Team RGB
+5337:	Robo Huskies
+5338:	Sonic Boom
+5339:	W.A.L.K.E.R.S.
+5340:	Binary Addiction
+5341:	Atomic Toads
+5343:	JACKs Pack
+5345:	STEMtastic
+5347:	A Team
+5348:	Terror Botics
+5349:	Robo Wolves
+5350:	Students in Black
+5353:	Pink Fruffy Unicorns
+5354:	ORC II
+5356:	Tardis
+5357:	CCRT
+5361:	Lionotics
+5362:	HEAFINATORS
+5363:	YULA
+5376:	Tech Krew
+5378:	Team Aperture
+5380:	Tesla's Angels
 5381:	VIKO-PSYCHO
+5383:	CRR Breaking the Laws of Physics
+5384:	Luck will not do it alone 
+5385:	Riddlers
+5386:	Fabricators I
+5387:	TecHounds
+5389:	Wired Wolves
+5390:	Vikings
+5391:	Puzzlers
+5392:	CHEC-3P0
+5394:	High Voltage
+5395:	Stang Gang
+5396:	Iron Panda
+5397:	The Bot Side
+5398:	Robotux
+5399:	Quicksilver
+5401:	Warriors
+5402:	Controlled Chaos
+5404:	Titanium Titans
+5405:	Ready, Set, Bot!
+5406:	Optimus Bee
+5408:	Techno Wave
 5411:	G3 Geeks, Gears, and Gadgets 
+5412:	Huskies
+5414:	Techie Tornados
+5417:	BotWerx
+5420:	LAAE
+5421:	RM-ed and Dangerous
+5422:	Horse Power
+5423:	CyberB
+5427:	Flolopping Dragons
 5429:	Team CLUTCH
+5431:	Flagship Robotix
+5433:	RoboHornets
+5436:	Aluminum Cobblers
+5437:	Pioneerbots
+5439:	GLUONs
+5442:	Half LIFE TERRA
+5443:	Synergy
+5444:	Tangents
+5445:	Trohawks
+5446:	Imperial Robotics
+5447:	Metal Stingers
+5449:	Inner Drive
+5451:	Da Big Meks
+5452:	Robot to the Knee
+5453:	EVERYBODYRUNHERETHEYCOME
+5454:	dent in the universe
+5457:	Pyromania
+5459:	Syntax Error
 5460:	Revolutionary Robotics
-5527:	Eagle Robotics
+5461:	Cyber Robo Manors
+5464:	The Chrome Hounds
+5466:	Combustible Lemons
+5468:	Finding Blue Moose 
+5470:	Montwood Rambotics
+5472:	Particle Smash
+5474:	FIRST LAN Jaguars
+5477:	Innovo
+5480:	Robophins
+5481:	The Crusaders
+5484:	EnderBot
+5485:	PRO
+5486:	The Pluralists
+5488:	Robo Dragons
+5494:	Oscar
+5495:	Iron Eagles
+5496:	Cougarbots
+5497:	Chaos Order
+5498:	Unibots
+5499:	Paladin Robotics 
+5501:	USS Enterprise 
+5504:	n/a
+5505:	n/a
+5506:	n/a
+5507:	n/a
+5508:	Roxbots
+5510:	n/a
+5514:	Parkway
+5515:	Warriors
+5518:	Radians of the Arc Tangent
+5519:	Neutrinobotics
+5520:	Radical PiRates
+5521:	The Dutchman's Derivatives
+5526:	Quasics
+5527:	Technical Grunts
+5529:	WolfTrack
+5530:	ROBoT
+5532:	Wolfbots
+5539:	FAME IT UP! 
+5540:	Skynet
+5541:	Enthalpy 
+5544:	Transformers
+5547:	Owlbotics 2
 5553:	RoboComets
-5559:	RoboHawks Green
+5555:	Option 16
+5559:	RoboHawks
+5560:	The Crusaders 2
+5561:	Nerd Heroes
+5562:	B.R.A.T.S.
+5564:	SciTech
+5565:	The Doctors
+5566:	Demons
+5570:	STEM Cyborgs
+5571:	Premium 'Grade
+5572:	Team Silver
+5573:	RoboCougars
+5576:	Skynet
+5582:	SciTech
+5586:	Push Mowers 
+5596:	That One Team
+5598:	The PIT Crew
+5599:	E.R.R.O.R.
+5600:	Metal Heads
+5601:	Shadetree Mechanics
 5602:	Bionic Gaels
-5607:	Lady Eagle Engineers
+5604:	Thunderbots
+5606:	Cavaliers
+5607:	Crimson Rose
+5611:	Robo Bears
+5614:	Team Immortalis
+5616:	Robo T's
+5618:	Control Freaks
+5619:	Tesseract
+5624:	Droids
 5627:	Robotics Quasar Alliance
+5628:	The Tau Manifesto
+5629:	RoboPirates
+5637:	Tech-Wise Guys
+5640:	Mechanical Uprising
+5641:	Devil bots red team
+5642:	Tupper Lake Central School
 5644:	Bedford Bots
+5645:	Las Aguilas
+5646:	FERGUS ONE
+5647:	Queenotics II
+5648:	TekTwisters 2.0
+5649:	Liberty Falcons - MESA Girls
+5650:	Viking II
+5651:	Viking III
+5653:	TOLTECH DA VINCI
+5654:	TOLTECH EDISON
+5655:	TOLTECH ARMSTRONG
+5656:	TOLTECH FORD
+5657:	TOLTECH TESLA
+5658:	Spartans
 5661:	SHPE Wolves
+5663:	Endothermics
+5664:	Cyber Wolves
+5666:	Dutch 200
+5667:	Robo Miners
+5669:	TigerBots
+5670:	Dragons
+5677:	AEC S.W.AT
+5678:	Cardinal
+5681:	Robo Pirates
+5683:	Panthers
+5686:	Cog-nation
+5687:	Senators
+5688:	The Whovians
+5693:	The Fellowship
+5694:	Metal Wolves
+5695:	Robo Wolves
+5696:	Bionic Wolves
+5700:	Knights
+5703:	Doppler Effect
+5706:	Reboot
+5708:	VikingFIRST
+5709:	Gators
+5710:	Titans
+5711:	LaGBotics
+5713:	Crusader Robotics: Formula Matrix
+5714:	Shambots
+5717:	Team GEAR UP!
+5718:	BestAlternative
+5720:	Axolotl
+5721:	Victorious Secret
+5727:	Jaguars
+5730:	Jaguars 2
+5732:	Vetoed
+5734:	Short Circuit
+5736:	Stormbots
+5738:	MoHawk Warriors
+5739:	MoHawk Warriors
+5741:	CVU RoboHawks
 5746:	Test Subject 5746
+5747:	Young Spartans
+5751:	Rebelutionary
+5754:	Marburn Academy Marbotics
 5755:	Nano Slugs
+5758:	Mech13375
+5760:	Too Many Lies
+5762:	Men In Black
+5763:	RoboPanthers
+5764:	Blue Sabers
+5770:	Mustangs
+5772:	Robo Knights
+5773:	Ink and Metal
+5774:	Robo  Dominators
+5775:	Lions The Master Minds
+5780:	Robotish
 5795:	Back  To The Drawing Board
+5800:	Lehman RoboLions
+5801:	Rhody Girls
+5802:	Team Green
+5804:	Nuts and Bolts Extreme Robotics Team
+5808:	Lil Tyre
+5809:	Yobos
+5810:	New Bees 
+5815:	Disgruntled Robots
+5817:	Chaos Order
+5818:	BotteringRams
+5822:	Bacon Bots
+5826:	The Metal Ducks
 5827:	Slice-o-Pi
 5828:	E.M.P. Chaos
+5830:	X2
+5836:	Robot Repair
+5860:	HardWired α (ALPHA)
+5862:	TechnoTigers
+5871:	Acme Robotics
+5873:	Dragon Terminators
+5874:	Congobots
+5875:	GENIUS Girls Exploring New ideas Using Science
+5878:	RoboHawk
+5879:	Eagle Brainiacs
+5880:	Mad Robotocists
+5881:	Fractured Humorous
+5882:	Double Trouble
+5883:	Maverick Heavy Lifters
+5886:	Double "O" 1 Pure Binary
+5887:	RoboWarriors
 5889:	Blitzkrieg Bots VISA Robotics
 5890:	e-lemon-ators
+5891:	Redneck Engineering
 5892:	Future Bionic Innovations 
 5893:	Direct Current
+5894:	V-CUBE
+5895:	The Ladybots
+5896:	KART
+5897:	HackHers
+5898:	Lions
+5899:	Heavy Metal
+5900:	r3 inventors
 5901:	DiBZ
+5902:	Oompa Loompas
+5904:	Crazy Bot
 5905:	Camdenton 4-H LASER #1
 5906:	Camdenton 4-H LASER #2
-5907:	Camdenton 4-H LASER #3
 5908:	Camdenton 4-H LASER #4
 5909:	Camdenton 4-H LASER #5
 5910:	Sparks
+5911:	Mean Green Machine
+5912:	LBHS
+5913:	Drop It Like It's Bot
+5915:	Wildcats 
+5916:	Bo-Bots
 5917:	Acrobots
+5919:	RegisOwls
 5920:	Bulldogs
+5921:	La Canada Engineering Club
+5923:	Raptors
+5925:	The WildBots
+5926:	The Things
+5927:	Hephaestians
+5928:	Turing Machines
+5931:	Cru-Botics
 5933:	Legacy
+5936:	Robo Squad
+5937:	Renaissance Robotics
+5938:	Loose Screws
+5939:	Team AFOOFA
+5940:	Rockin' Robots
+5941:	St. Mary CyberCatz
 5942:	Team Torch
+5943:	Erector Sets Gone Mad
+5944:	Live Wire
+5948:	Arctic Eagles 2
+5949:	Steel Wolves 2.0
 5950:	Bio-Bots
 5953:	Roarbotics
+5954:	Lightning Boltz
+5956:	Robo Warriors
+5957:	Sonic Eagles
 5959:	Alonns-y! Radioactive
 5960:	Iron Dams
-5962:	TBD
+5961:	Vashon Royal Navy
+5963:	Team Purple Thunder
+5965:	Spartans
+5966:	Bears
+5967:	RoboHornets 
+5968:	Westfield Robotics
+5969:	Enginuity
 5970:	Ambassadors
+5971:	On Tardis Time
+5972:	Patronum Bots
+5973:	Lego Action Figures
+5975:	CYBOTS
+5976:	Brandon Tech
+5977:	Cyberswat FTC
+5978:	Falcobots
 5979:	CyberStingers Blue
 5980:	Titanium Tech Vikes
+5981:	Robotic Brotherhood
+5984:	Supersonics II
+5985:	Marsupial Tech
+5990:	The Ninja Armadillos
+5991:	Tigerbytes
+5995:	Scot Bots
 5996:	Hyper Nike
+5997:	SuperUsers
+5998:	Purple Haze
+5999:	Electric Eagles Engineering (E3)
+6000:	Fabricators III
+6001:	Lemon Drops
 6002:	Basilisks
+6003:	Techno Eagles
+6004:	Robo Blazers
+6006:	Tru Blu 2
+6007:	Octopi
+6010:	Thunder Stone
+6012:	Septimo Automaton
+6015:	ROBOCATS
+6016:	Ironwolves
+6018:	Platinum Devils
+6020:	Red Raider Robotics
+6021:	Martian Minds
 6022:	TBD
+6023:	ArchiSci
 6024:	The Enterprisers
+6025:	United Robotics
+6027:	L.E.D. Empire
+6029:	Robowiz
+6032:	Rosie's Riveters
+6033:	NESI
+6035:	ST PETER MINUTEMEN QUANTUM SOLDIERS
 6037:	W.A.G.S.
+6038:	Rattlers
+6040:	RBT-O-SR
+6041:	Field Destruction
 6042:	Commandobots
+6043:	NC GEARS
+6044:	Scavo Spartans
+6045:	foobar
 6046:	TekWolves
 6047:	Twisted Axles
+6049:	Firebots
+6050:	Spartonics
+6051:	Quantum Mechanics
+6052:	Tiger Tron
+6054:	int elligence;
+6055:	GearTicks
+6056:	N-Tech
 6057:	Aagaa!
 6058:	The 4 Roboteers
 6059:	Awk4Ward
-6061:	Tundra Warriors
-6062:	Starbots
+6060:	Kid Lightning
 6063:	Iron Warriors
+6064:	XSMI (Xavier Society for Mechanized Inquiry)
+6067:	Fleming County High School
+6068:	Robot Devils
+6069:	Pingry Robotics
+6070:	WO FORCE
+6072:	WildBots
+6073:	Robo Bubo
+6074:	RAWALA (Robot Assemblers With A Long Acronym)
+6075:	Brainstormers
+6076:	Commodores
+6077:	Syntax Error
+6078:	Robo UN
 6079:	Bionic Broncos
+6080:	N.E.R.D.S.
+6081:	I2R Robotics
+6082:	Alt F4
+6083:	Lightning Bots
+6085:	Electro/Mechanically Controlled Chaos
+6086:	Warriors
+6088:	I-Bots
+6090:	G360
+6091:	Eagle robotics
+6092:	Tech Warriors
+6093:	Deviation from the Norm
+6095:	PteroBytes
+6096:	Draconem
+6097:	Brick Squad
+6099:	Gothombots
+6100:	Chariots of Fire - Black
+6101:	Energized Hazard
+6102:	E=MK2
+6103:	Power - Johnston Robotics
+6107:	CraNeoNerds
+6109:	Punabots
+6110:	M.E.T.S.
+6112:	Wolfbyte
+6113:	WHO
+6115:	P-TECH FTC Robotics
+6116:	n/a
+6119:	GeNxt Engines
+6120:	Thunder Robotics
+6121:	Cougarbots
+6122:	Perdix Revenge
+6123:	Mechanical Marauders
+6124:	Geek Gods
+6125:	N-K HS
+6126:	AutoBytes
+6127:	i-Bots
+6128:	Dragons
+6129:	Hancock 
+6133:	The "NUTS"
+6134:	Black Frogs
+6135:	Southside Divas
+6136:	RoboBear
+6137:	RoBowties
+6138:	Robot Unicorns
+6139:	Schrodinger's Dragon
+6140:	Robo Deuces
+6141:	The Möb
+6144:	Mario Brobots
+6145:	Rusted Metal
+6147:	Newbotics
+6148:	Orange Pi RoBEARics
+6149:	A-Team
 6150:	Fractals
-6166:	Rockem Sockem Robotics
+6151:	TaterBotz
+6152:	ROBO TWO
+6154:	Bot Masters
+6156:	Robot Warriors
+6158:	Spartabots
+6163:	EC-PO
+6165:	MSET Cuttlefish
+6166:	N-Bot FTC 
+6167:	CyberDawgs
 6168:	Maniacal Mechanics
 6169:	Maximum Entropy
+6170:	Bunch of People
+6171:	Big Red Robots
+6173:	Global Dynamics C
+6174:	Odyssey Automatons
+6175:	BuffnBlue 2
+6177:	RoboBuilders
+6179:	Quantum Fusion 
+6180:	Botman Begins
+6181:	Boys in Black
+6182:	RoboHawks
+6183:	Thunderducks
 6184:	MHS Tech Club
+6185:	Menaul Panther Robotics
+6186:	Senators
+6187:	hound bots
+6188:	Mount Si-Borgs
+6189:	High Voltage
 6190:	Red Alert Cyber Storm
+6191:	Short Circuit
 6193:	Electrical Invaders
 6194:	PLUMBER
+6195:	LC Robotics
+6196:	Tux Dynasty
+6198:	Mechanicalicious Aardvarks
+6199:	Spartans
+6200:	The Sidekicks
+6201:	Bonzai
+6202:	The Raiders
+6203:	No, We Don't
+6204:	7th Grade C
+6205:	SCARLET
+6206:	Ohms Olympians
+6207:	Team Alpha
+6208:	Team Ratzo
+6209:	ViperBots Venom
+6210:	ViperBots  Stryke
+6215:	Team Beta
 6217:	The Fellowship
+6219:	Panther Bots Bravo
 6220:	Swerve Sigma
+6221:	Panther Bots Alpha
+6222:	SaintBots
+6223:	Evasive Robotics
+6224:	Domo Inferno
+6225:	Terabyte
+6226:	Bambusa
+6229:	K9
+6230:	Robo Pups
+6232:	Ctrl Alt Delete
+6233:	TartanBots
+6238:	Grubots
+6242:	Bob the Builders
+6244:	Aluminum Spartans
+6245:	T Jaguars
+6246:	Spartabot Hotel
+6247:	Spartabot Echo
+6248:	TJ Flying Foxes
+6249:	Sparta Labs
+6250:	Sigma Sparticus
+6251:	Rad Lab TJHS
+6252:	The League of Inquisitive Narwahls
 6253:	Avalanche
+6256:	The Leonardos
+6257:	2Saints
+6258:	Sem Robotics
+6262:	TEAM OHM
+6263:	Meta GAME
+6264:	EXT STEEL 
+6265:	The Scurvy Dogs
+6266:	MRHS Elite 5
+6268:	Robo Canes
+6270:	Atomic Bulldog
+6272:	Iron Eagles Prime
+6273:	Technocats
+6276:	HYPERON
+6278:	C2RT
+6279:	Robovengers
+6280:	Fibonacci Falcons
+6281:	Genetic Advantage
 6282:	The Cooler Pistachios
 6284:	RoboCavs
+6285:	Statesbots
+6286:	Falcon High Flyers
+6287:	WARBOTS
+6288:	Aviators
+6289:	Robo Trojans
+6290:	Tigers
+6291:	Tigers 2
+6295:	Wolverines
+6297:	The Tourists
+6298:	Broken Axles
+6299:	ViperBots QuadX
+6300:	Cube Squared
+6301:	WASTE
+6302:	T.R.O.N - Technological Robotics Organization of the Nation
+6304:	Rambots
+6306:	Tiborgs
+6307:	Cary Astros
 6308:	Hutzbots
+6309:	Anti-Luddites
+6311:	Robotic Knights
+6312:	ROBOTIC NINJAS
+6316:	The Crusaders 3
+6318:	Extra-TETRIX-ials
+6319:	Ro"Dawg"ics
+6320:	The Mechanix
+6321:	Robo Raiders
+6322:	Poke'mon
+6323:	The Pink Team
+6324:	EF5-Tornadoes
+6325:	Aluminati
+6326:	ASE
+6327:	Fetch
+6328:	TigerBots
+6329:	Digital Dogs
+6330:	TechTitans
+6331:	New Kids On The Block
+6332:	RoboTitans
+6333:	4H
+6335:	KHS Hornets
 6337:	Metal Marauders
+6340:	Golden Hammer
+6341:	Apex
+6343:	Kingman Bionic Pups
 6344:	Chargers
 6347:	Geared Up
+6350:	Robo ReVOLT
+6352:	Iron Panda
+6353:	Iron Panda
+6354:	Code REB
+6356:	ARC
+6357:	Top Dogs
+6358:	BSB Robotics
+6359:	Bruin Bots
+6360:	Black Knights
+6361:	R2B2
+6362:	The Terminators
+6363:	Justice League
+6364:	Pulsatrix
+6365:	Legion of Doom
+6366:	Blue Team
+6369:	Designosaurs
+6370:	Scouting Legion
+6371:	Gear Gurus
+6372:	Phylum Metallia
+6373:	Parobots
+6374:	Gizmologic
+6375:	hIPer G33Ks / aka The Axis of Innovation
+6376:	RAMBOTS
 6377:	The Other Guys
 6378:	Jaybots
+6379:	Clockwork Mania
+6380:	Kidz4Change 4-H Club
+6381:	Adroits
+6382:	Wizardly Robots
+6383:	Big Blue Botics
+6384:	Operation Phoenix
+6385:	Bionic Mafia
+6386:	Robo Crew
+6387:	Brobots
 6389:	The LazyBotts
+6390:	Falcon 1
+6394:	Omega Semicolon
+6395:	Bionic Braves 
+6398:	Cyber Rajahs
+6399:	Bacon Bytes
+6402:	Mariners
+6405:	LalalalaLLamas
+6406:	First Tech Coyotes
 6407:	Mustangs
+6408:	Falcons Robotics
+6409:	Originals
+6410:	Thunder
+6411:	R.E.D H.O.R.S.E.
+6412:	Huskr Bot
+6415:	BazingaBots!
+6417:	Explorers
 6418:	NDCL Robotics
+6420:	SabreHOOF Tigers
+6421:	A.C.R.O.N.Y.M
+6422:	Green Dragons
+6423:	Robo Tigers1
 6424:	'Oly Cow
+6425:	Dino Bots
+6426:	TBD
+6427:	Wright Angle
+6429:	Wired  ones
+6430:	Digital Revolution
+6431:	R.A.W. - The Rebel Alliance of Walpole
+6433:	Neutrinos
+6436:	RoboCats
+6437:	Mad Hatters
 6438:	Syborgs
 6440:	The Metallic Controllers
 6441:	Cincy Wolves
-6442:	Cyberzone
+6442:	Cyberzon
+6445:	Titanium Tigers
+6446:	London Gentlemen
+6448:	Blue Jays
+6449:	Mechanical Bulls
+6450:	Jaguars
+6451:	Tarpon Robotics
+6453:	Grizzly Griffs
+6454:	Saints Robotics
+6455:	MoHawk Warriors
+6457:	Mean Machine
 6458:	ShuffleBots
-6460:	WE NEED A TEAM NAME
+6459:	Terminator X
+6460:	Robo Warriors
+6461:	Panthers
+6463:	Sehome Sea Monsters
+6467:	SEVN
+6471:	Panthers
+6473:	Robo-Dynasty
+6474:	Purple Platypi
+6475:	Sanitize
+6476:	Ausente De Mente
+6479:	Stingbots
+6480:	Lost Marbles
+6481:	Stafford Robotics
+6482:	Redstorm 
+6483:	Curiosity
+6484:	Robo-Barons
+6485:	BEAR Bots
+6486:	Nuts & Bolts
+6487:	Team Alpha Omega
+6492:	Beaver Bots
+6493:	Cyber Colts
+6494:	Control Freaks 2
 6496:	SEP Nerd Herd
 6497:	Red Ring
+6499:	robo.jocks
+6500:	AutomaDons
+6501:	Cougarbots II
+6502:	RamBots
+6504:	Torque Omega
+6506:	"Circuit Breakers"
+6508:	Radioactive Raiders
+6510:	CyberSharks
+6512:	Robotigers Epsilon
+6516:	ChargerBots
+6517:	Socialbots
+6518:	Scarlet and Gray Robot Army
+6520:	Roborines
+6521:	E-TEC
+6522:	Equinox
+6523:	Abeators
+6524:	Woodland Wildcat What-Ch-Ma-Call-Its
+6526:	Purple Dragons
+6530:	ETC Robovengers
+6532:	RoboBears
+6534:	MECanism
+6536:	Guardians
+6537:	Benny And The Jets
+6538:	Ben Robotics
+6540:	Lincoln
+6543:	Bronco
+6544:	Frostbyte
+6545:	Knight Riders
+6546:	RoboCats
+6547:	CAPS Cobalt Colts
+6548:	Team Contagion
+6549:	Whoa!Bots
+6550:	JigaWatts
+6551:	TigerHawks
+6552:	Northeast High School
+6553:	Technomancers
+6555:	ACHS
+6556:	Tempest
+6557:	Nemonoid Robotics
+6558:	Bionic Sharks
+6559:	Geared Reaction
+6560:	Matrix
+6562:	Nightmare Robotics
+6563:	Cyberbotic Independence Alliance (C.I.A.)
+6564:	The Weeping Angles
 6565:	Stuffed Dragons
+6566:	Victory Robotics
+6567:	Roboraiders
+6568:	Eagles Robotics Xperience 2
+6570:	Piradians
+6571:	Cavaliers
+6574:	Task Main
+6577:	Bulldogs
+6578:	Cyber Dragons
+6582:	Raider Robotics
+6583:	bionikats
+6585:	Circuit Boardum
+6586:	Warranty Voiders
+6587:	Ctrl-Alt-FG
+6588:	Scrap Metal
+6589:	Robo Rage
+6593:	Cobras
+6595:	unknown at this time
+6596:	Robotic Rams
+6597:	Team Orange
+6599:	The Pi Fighters
+6600:	Ballen Pretzels Central Lyon
+6602:	Notre Dame Academy
+6603:	Lancers
+6605:	Comets
+6606:	Dobbins Force
+6607:	Robot Frenzy
+6608:	Hammerdillos
+6609:	Cougars
+6613:	Yaliens
+6624:	Midgets
+6625:	Enginerds
+6632:	Girl Scouts FTC Team
+6633:	Panthers
+6634:	7th Grade F
+6635:	Panthers
+6636:	Robo Panthers
+6637:	Creston High School 2
+6638:	Roboholics
+6640:	TBD
+6644:	Elgin Purple
+6645:	Maximum Annihalation
+6646:	Team Derrick
+6647:	JagNet
+6650:	Hawks
+6651:	Special Operations 
+6652:	United
+6654:	The Blockers
+6655:	The Cubersons
+6657:	GSNC LEGOtronettes
+6660:	STEM Tronix
+6661:	Star Robotics
+6662:	Robo Falcons
+6666:	Block Busters
+6668:	PantherBot Omega
+6669:	Team Omega
+6670:	Ranger Replicants
+6671:	Ranger Reactroids
+6672:	Comets
+6675:	Chargers
+6676:	RoboLancers Crimson
+6677:	Boyz2Bots
+6678:	Pirate Robotics
+6679:	Wolverine Bots
+6681:	Panthers
+6682:	Hunger Gamers
+6683:	Bruin-Bots #2
+6684:	Tech Cats
+6685:	Downtown Magnets High SChool 
+6686:	Jordan High School
+6687:	Sun Valley High School
+6688:	Version 4.2
+6689:	RoboRockts 
+6690:	Teal Tornadoes
+6691:	Borderline Obsessed Technicians
+6693:	Patriots
+6695:	Frost Bots
+6699:	Tempest
+6700:	X BOTS
+6701:	MAD Robotics
+6702:	RoboBusters
+6703:	Kiwi pi
+6704:	Robo Bears
 6705:	MotorBolts
+6707:	Robotic Ninjas
+6708:	King Engineers
+6710:	Summation
+6712:	Newberg Tigers
+6713:	Aeterna
+6716:	Ultra Lightning Cobra Strike Force
+6717:	Redemption Dragons
+6719:	Piotech
+6721:	The Pink Panthers
+6722:	Undecided
+6723:	Apple Pi
+6725:	Team Titanic 2.0
 6727:	AutoBots
+6728:	team pandamonium
+6730:	Wildcats
+6731:	Ringers
+6732:	MoHawk Warriors
+6733:	Hyper^3  (raised to the 3rd power)
+6734:	Hornets
+6735:	Team Medusa
+6736:	Cyber-Comets
+6738:	SCHS Robotics
+6740:	Robotigers Lambda
+6741:	Bulldog robotics
+6744:	ThunderBots
+6745:	RoboNerds
+6746:	Maroons
+6747:	TRANSFORMERS
+6749:	Iron Penguins
+6751:	V-Bots
+6753:	PV Robotics
+6757:	BeestBot
+6761:	R.E.D.BOTS
+6762:	N R G (Northwestern Robotics Gearheads)
+6767:	Bobcat BOTZ
+6769:	RoboViks
+6770:	Canalmen
+6771:	RoboYetis II
+6772:	Momentum
+6774:	JACC Los Gatos Locos
+6775:	^^vv<><>BA
 6780:	Y Not Robots2 
+6794:	Falcon Physics
+6798:	Wildcat Robotics
+6799:	RoboWolves
+6800:	Tiger Robotics
+6802:	Angry Bot
+6804:	Megatorr
+6805:	AVID
+6806:	BadgerBOTS Edgewood
+6808:	Hawks
+6809:	Patriots Robot
+6811:	Hardcore Hard Drives
+6813:	Deceptibots
+6815:	KY Tech Paducah Center
+6816:	Falcon Fury
+6818:	Aimbot
+6819:	Brotherhood of Steel
+6820:	Team IMPACT
 6821:	Coyotes
-6830:	HSA Bro-2
+6830:	TEAM ROBO
 6831:	Robo Bearcats
+6832:	Iron Reign
+6833:	Automatons
+6834:	Plasma Robotics
+6836:	PERK's Dirty Dozen
+6837:	Cannon Cougars
+6839:	Rockets
+6840:	1st Period
+6842:	Mechanical Mahem
+6844:	Wolves
+6847:	Ohm Boyz
+6848:	Cuttlefish
+6873:	Hexadecimal
+6877:	Gear Heads 
+6878:	Wolverines
+6881:	Knights #1
+6886:	MACTC AM
+6888:	Robo Kats
+6889:	Robo Crusaders
+6891:	Warriors
+6892:	Team Jonders
+6896:	DJO Knights
+6897:	Robot Dynasty
+6899:	Blue Griffin
+6900:	Robo Dogs
+6901:	Droid Rage
+6903:	Wall-E
+6914:	DCIS robotics
+6924:	Robot Club
+6925:	Willamette Challenge 1
+6928:	Westside
+6929:	Data Force 6
+6930:	Syntax Error 42
+6931:	BrainSTEM
 6932:	Tesla Lightning
+6933:	Construction Zone
 6934:	The TranSisters
 6935:	PARADOX
 6936:	CodeRunners
+6937:	Ctrl+F8
 6938:	Robotics & Programming Guild
+6939:	Pandemonium2
 6940:	Apollo19
+6941:	Falcons
+6942:	Pandemonium
+6943:	Huskies
+6944:	Sub Zero
 6945:	System Overload
+6946:	IMSA Power
 6947:	Radioactive Robots
+6948:	Eagles A
+6949:	Eagles B
 6950:	Bionic Builders
+6951:	Cadets
+6952:	MESA 1
+6953:	MESA 2
 6954:	CougarBots
+6955:	RO Bo Vines
+6956:	RoboWolves
+6957:	YORK FALCONS
+6958:	Techno
+6959:	Fuzzy Logic
+6960:	T.R.E.A.D.S.
 6961:	The Radical Six
-6965:	Westwood Robotics Alliance
+6962:	BuffnBlue1
+6963:	BuffnBlue2
+6964:	Igutech
+6965:	WRA
 6966:	MobsterBots
-6972:	South Charlotte Community Team
+6967:	Cyber Rays
+6968:	Polka Bots
+6969:	RoboTigers
+6970:	Riveter Robotics
+6971:	Robo Panthers
+6972:	I.C.E. Crew
+6973:	The Amazon Warriors
+6974:	League of Friendship and Perpetual Union
+6975:	Arctic Eagles 1
+6976:	Brandeis Bronc Botz - Nano
+6977:	eTREC
+6978:	Enviro Bots
 6979:	Cyber Sharks
 6980:	Bad Wolf
-6983:	CouGEARS
+6981:	Hortonville Robotics
+6982:	Jaisa Tech
+6983:	Cougars
+6984:	STEMpocalypse
+6985:	Droid Rage Junior
+6986:	Techno Teens
 6987:	Hat Trix
 6988:	CyberStingers Gold
+6989:	Spartans
+6990:	Brobots
+6991:	MESA 3
+6992:	MESA 4
 6993:	System Upgrade
-6994:	Robotic 
-6995:	Robots
+6994:	Robotic Pirates
+6995:	Pirate Robots
 6996:	Oncoming Storm
+6997:	RoboRaiders
+6998:	Robonauts
+6999:	Peyton First Robotics
+7000:	The Dragonflies
 7001:	A-Team
 7002:	Ninja Turtles
 7003:	The Mean Machine
+7004:	HSA Garland Robotigers
+7005:	Highlands Not Found (Error 404)
 7006:	Robotitans
+7007:	Pink TechnoBots
+7008:	Mckinley bots 2
 7009:	Robowarriors
+7010:	Desert Narwhals
+7011:	Wigis
 7012:	Error 404
 7013:	Hot Wired
+7014:	RoboCraft
+7015:	Dragon Fire
+7016:	Robo Wildcats
+7017:	Dork Dynasty
+7018:	MindFormers
+7019:	The Wolfpack
+7020:	Wildcats
+7021:	Bionic Eagles
 7022:	Robostangs
 7023:	HexaSonics
 7024:	young hawks
+7025:	RAMS STEM
+7026:	JDroids
+7027:	Lowell Robotics
+7028:	Amazing Girls Science
+7029:	Bosco's Bots
+7030:	RoboMinds
+7031:	Battle Blazers
+7032:	The Thunder Botz
+7033:	Tech Attack
 7034:	Singularity Technology
+7035:	Radical Robots
+7036:	Iron Men
 7037:	Duck and Cover Robotics
+7038:	Baran's Bots
+7039:	Lord of the Bricks
+7040:	CyberFalcons
+7041:	Sharkbyte
+7042:	Robo Hamsters
 7043:	BHMS #1
+7044:	Robowolverines
+7045:	BLOWNFUSES
 7046:	The Spartins
+7047:	BHMS #2
 7048:	BHMS #3
 7049:	WHMS #1
+7050:	West Hills Wendrick Warriors
+7051:	Circuit Breakers
+7052:	Full Metal Rajahs
+7053:	The Minions
+7054:	RTE
+7055:	Cruzin' Comets
+7056:	Cruzin' Comets 
 7057:	Teslanators
 7058:	Artificial Intelligence Recruits(AIR)
 7059:	Teslatronics
-7060:	Fried Fuzes
+7060:	RobotiX
+7061:	SFIA_FTC_Team1
+7062:	SFIA_FTC_Team2
+7063:	BG Biobots
 7064:	RoboRaiders
+7065:	NBMS 
+7066:	NBMS 2
+7067:	NBMS 3
+7068:	NBMS 4 
+7069:	Reboot
+7070:	High Tech Hilltoppers
+7071:	EngiNerds
+7072:	LiveWires
+7073:	Cardinal Robotics
+7074:	BOOC BOTS
+7075:	Patriot Robots
+7076:	Robotic Patriots
+7077:	Xx
+7078:	STEMBotics
+7079:	Faltech
 7080:	BACON
+7081:	Team Avatar
+7082:	Roboaztechs
+7083:	Team Tundrabots
+7084:	Royal Dragons
 7085:	Circuit Breakers
+7086:	Junior LLA Roadrunners
+7087:	W.I.R.E.
+7088:	Sparkle Bots
+7089:	Cyborg Eagles
 7090:	First Appalachian Robotics
+7091:	ECHS
+7092:	LLA Robo-Runners
 7093:	RaiderBots
-7095:	S.T.O.R.M.
-7098:	Team1
-7099:	Team2
-7100:	Team3
-7101:	Team4
+7094:	OVERLORDS
+7095:	Sion Robotics
+7097:	Clippers
+7098:	Feisty Kittens
+7099:	Five Star
+7100:	Potato Catz
+7101:	Team Geiss
+7102:	Westfield Robotics 2
+7103:	Ursa Feminam
+7104:	Team 7104
+7105:	TBD
+7106:	Absolute Value
 7107:	Onteora Engineers
+7108:	Big Blue Botics
+7109:	Gryffindor
+7110:	The Element of Surprise
+7111:	MIP
+7112:	Broken Motors
+7113:	DERPA
+7114:	Robotics Anonymous
+7116:	Robotic Cats
 7117:	The Blockheads
+7118:	Axis of Innovation
+7119:	LARC (Lake Ave Robotics Club)
+7120:	Bionica
+7121:	Thunderhawks
+7122:	Robo Bulldogs
 7123:	Screws
+7124:	Rockford RoboTech
+7125:	Arrow Techs
+7126:	Pine Eagle Charter School
+7127:	THE TIN MINTS
+7128:	Pioneer Ten
+7129:	Robo Raiders
+7130:	Royal Robots
+7131:	Lions
+7132:	Challengers
+7133:	Salem Sabers
+7134:	Mechanical Mayhem Makers
+7135:	Hornets
+7136:	Higg's Bosons
+7137:	DST Sharks
+7138:	Lapeer FTC
+7139:	KHS Robotics
+7140:	2 Liggett 2 Quit
+7141:	Dawgs of Steel
+7142:	iDogs
+7143:	Tech-No-Logic
+7144:	C.L.U.E.
+7145:	Metal Heads
+7146:	HaloBots
+7147:	The Randomists
+7148:	CHEC
 7149:	Enforcers 
+7150:	Techno Bots
+7151:	LCA
 7152:	Robot Squad
+7153:	Extreme Bots
+7154:	The Stonewallers
+7155:	Quantum Potentials
 7156:	SHPE Wolves #2
+7157:	Robot Knights
 7158:	TechKnow Difficulties 
+7159:	Robo Ravens
+7160:	Blazers
+7161:	ViperBots Big Fang Fury
+7162:	Singularity Robotics
+7163:	Union 8th Grade Center
+7164:	Falcons
+7165:	Robotic Surge
+7166:	The Hairy Eyeballs
 7167:	Hawks
 7168:	SRCA Royal Sages
+7169:	HuskerBots
+7170:	Go get 'em
+7171:	R2D2
 7172:	Technical Difficulties
+7173:	?
+7174:	APL-STEM
+7175:	Walbots
+7176:	Bionic Tigers
+7177:	Coal Bustin Bots
+7178:	Panda Wheelz
+7179:	Bruins
+7180:	Palominos 
+7181:	D.E.C.E.N.T.
 7182:	Mechanical Paradox
-7187:	Team Axis
+7183:	robobustersrobobusters
+7184:	Robot Runners
+7185:	Pirate Nation
+7186:	USA atoms
+7187:	Axis
+7188:	Robo-Swagg
+7189:	McKinley 5
+7190:	Green Girls
+7191:	Sprockettes
+7192:	Bot Busters
+7193:	South Spencer High School
+7194:	South Spencer High School
+7195:	TITANIUM TITANS
+7196:	Robots-R-Us
+7197:	FB Toxic Green Hornets
+7198:	Cyborg Ferrets
+7199:	Giants
+7200:	Land of Cake and Robots (LOCAR)
+7201:	Hoya Robotics
+7202:	Travis Country Lego Robotics
 7203:	KNO3
-7209:	Tech Hogs Robotics  
+7204:	AFIA Robotics Team
+7205:	Spegonauts
+7206:	PWC 4H
+7207:	M-Fusion
+7208:	X Team
+7209:	Tech Hogs Robotics Club
+7210:	Black Mesa
+7211:	TECH
+7212:	Huskies
+7213:	Matrix
+7214:	The Cruzers
 7215:	Turning Gears
+7216:	NinjaSharks
 7217:	Mechanicats
+7218:	Ace Robotics
+7219:	The Fatherboards
+7220:	THE BLOCK HEADS
+7221:	AMS
+7222:	Robo Revenants
+7223:	Lions
+7224:	Cliffhangers
+7225:	Mendez MESA
+7226:	NWP
+7227:	Scorpions Robotics
 7228:	Stryke Force - Special Air Service
+7229:	BZ Club
+7230:	Atoms
 7231:	Blue Plasma
+7232:	Dyna-Bytes
+7233:	Technicool
 7234:	Cville-ized Botman
+7235:	Wolvez Point
+7236:	Recharged
+7237:	Silver Lake
 7238:	Cyber Bots
+7239:	Mechanical Masters
+7240:	Cyber eagles
+7241:	Rock N Roll Robots
+7242:	RoboCats
+7243:	To Be Determined
+7244:	OUT of the BOX
+7245:	Big Green
 7246:	Aces High Too
+7247:	The Kings
+7248:	The Dusty Dolphins
+7249:	Wahawks
+7250:	Wahawks 2
+7251:	Comets
+7252:	EVIL CROUTON
+7253:	Raging Robots
+7254:	N.E.R.D.S. (Neurotic Energetic Robot Dragon Slayers)
+7255:	Dream Team
+7256:	Catalysts
+7257:	Undecided
+7258:	EHS 1
+7259:	EHS 2
+7260:	NHS 1
+7261:	NHS 2
 7262:	Alt Ed
+7263:	TechnoKnights
+7264:	Waterford HIGH VOLTAGE:  team RESISTANCE
 7265:	Gear Grinders
 7266:	Dragonettes
+7267:	Robot Warriors
+7268:	MAEA
+7269:	CMIT FTC Team
+7270:	Wolves
+7271:	Wildcats I
+7272:	Wildcat II
+7273:	Pir2ates
+7275:	Rock 'em Sock 'em Robots
+7276:	Waterford HIGH VOLTAGE:  team CURRENT
+7277:	RoboSpartans
+7278:	LibraryBots
+7279:	Yellow Jackets
+7280:	BMS
+7281:	Metallicanauts
+7282:	The Copyrights
+7283:	Unknown 1
 7284:	Teen Connection
+7285:	BMS
+7286:	XX
+7287:	Rebel Robots
+7288:	RoboGlaciers
+7289:	Genius
+7290:	JagWires
+7291:	TBD
+7292:	TechnoHawks
+7293:	Troopers Gold
+7294:	Tesla Pandas
+7295:	tokabot
+7296:	HuskyBots
+7297:	LiMITless
+7298:	Polar Bots
+7299:	T-Wolf
+7300:	Ashebots
+7301:	Tigers
+7302:	HPA Eagles
+7303:	RoboAvatars
+7304:	Electro Bulldogs
+7305:	GearCats
+7306:	Kaizen
+7307:	Bionic Hybrids
+7308:	TechnoChic
 7309:	Metal Hornets
+7310:	Team Aquila
+7311:	Terrier Byte Bots
+7312:	Terrier Byte Bots
+7313:	Eagle Robotics
 7314:	Sab-BOT-age
+7315:	Reformation Raiders
+7316:	Iron Panthers
+7317:	Quest Gators 
+7318:	Phoenix Gears
+7319:	Lawbots
+7320:	Tiger Nova 7320
+7321:	Tarpon Robotics Team Graphene
+7322:	Mechanical Mountain Lions
+7323:	Trojan Transducers
 7324:	Fighting Irish
+7325:	Screaming Eagles
+7326:	W.A.L.D.O. Robots
+7327:	NX36T
+7328:	I. C. E.
 7329:	Centinels
+7330:	Overlake FTC
+7331:	Scibots
+7332:	DodgerBOTS
+7333:	Combustible Lemons
+7334:	Terabytes
+7336:	Hawks
+7337:	Robotium
+7338:	Iron Dogs
+7339:	Think Outside the Block
+7340:	The Metools
+7341:	F.R.E.N.C.H. F.R.I.E.S.
+7342:	Hibernotics
+7343:	Fire
+7344:	THS FTC Team
+7345:	Epic-A-Neers
+7346:	Mustachio Peanuts
+7347:	Team Daedalus
+7348:	NW  BC
+7349:	The Techno Chix II
+7350:	Watts NXT?
 7351:	Dynamic Signals
-7361:	Ctrl-Alt-Del
+7352:	N.E.R.D.S.
+7353:	Master Minds
+7354:	SMOKE
+7355:	UB STEP Stampede
+7356:	21st Century Bulldogs
+7357:	Team Titanium Tech
+7358:	Ares Rovers 2
+7359:	S.W.A.T.
+7360:	Robo YOLO!
+7361:	Ctrl-Alt-Delete
+7362:	Cougars
+7363:	Electric Knights
+7364:	MindBot Maniacs
+7366:	The Heroes
+7367:	McNicol Engineers
+7368:	Python
+7369:	SSA Phoenix Golden Eagles 
+7370:	ELT TECH TEAM
+7371:	Robo Rangers
+7372:	TPAA-FTC
+7373:	Eagle Robotics
+7374:	Techno Inventors "EINSTEIN"
+7375:	Techno Inventors  "TA-EDISON"
+7376:	GEAR Heads 2
+7377:	Adeamus
+7378:	Turkeybots
+7379:	SHARKS
+7380:	Commanders
+7381:	A1
+7382:	B1
+7383:	B2
+7384:	Awesome Women Robot Engineers
+7385:	Cool Women Robot Engineers
+7386:	RACS 
+7387:	Protect and Servo
+7388:	StarBots
+7389:	CMIT HIGH TIGERS
+7390:	Jellyfish
+7391:	Error: 7391 Not Found
+7392:	Golden Elks
 7393:	electron Volts
-7394:	Team 7394
+7394:	Terminators
+7395:	Chrome Hounds
+7396:	Mega Watts
+7397:	Knights
+7398:	BLUE CREW
+7399:	Robo Clover
+7400:	Iron Eagles
+7401:	Home Followship Group
+7402:	Future Transformers
+7403:	The Grizzly Griffins
+7404:	Lightning Robotics
 7405:	Fire Breathing Rubber Duckies
-7407:	Team VEGA
+7406:	Optic eagles
+7407:	Delta Force
+7408:	Nuclear Unicorn Girl Assemblers (NUGA)
+7409:	The Creepers
+7410:	Warriors
+7411:	Rockets
+7412:	Henderson County High School
+7413:	RATZ
+7414:	PAAAS
+7415:	Clearwater Central Catholic High School Robotics Club
+7416:	Silver Spartans
+7417:	Portledge
+7418:	Batteries Not Included
+7419:	System Overload
+7420:	BHBL
+7421:	Chicago Tigers
+7422:	Circular Logic
+7423:	Flaming Phoenix
+7424:	Robotic Warriors
+7425:	Bucket Bots
+7426:	2 Legit 2 Quit
+7427:	University YES FTC
+7428:	West
+7429:	Prototype
+7430:	Engineering Robotics
+7431:	G.E.A.R.S. Silver
+7432:	G.E.A.R.S. Purple
+7433:	The Cyclones - Storm Robotics Team
+7434:	Infinite Minds
+7435:	Controlled Chaos
+7436:	Nettlewood Robotics Club
+7437:	L.E.D.
+7438:	Tau TroboBots
+7439:	Iron Trojans
+7442:	Robo-Wolves
+7443:	HHS Robotics
+7444:	Sisters of the Motherboard
+7445:	Red Hot Chili Bots - Blue Team
+7446:	Park Center Robotics
+7447:	ST PETER MINUTEMEN X-NOVA
+7448:	HIS Team 1
+7449:	HIS Team 2
+7450:	Suffern Celeritas
+7451:	Bullfrogs
+7452:	Iron Giants
+7453:	Harpooners
+7454:	Cardinal and Gold
+7455:	Lions
+7456:	VVMS RoboClub
+7457:	CyberKnights
+7458:	Full Force!
+7459:	Imagineers
+7460:	Thunder
+7461:	CTHULHU BOTS
+7462:	End of Line
+7463:	The 3 Engineers
 7464:	Capitals
+7465:	paperBlotterOutters
+7466:	Robotic Sudsy
+7467:	Chuck Norris
+7468:	Blue Chariots of Fire
+7469:	Bearcats
+7470:	Cow Tippers
+7471:	BX Dragons 
+7472:	Lil' Megatronic Oracles
+7473:	Struttin Turkeys
+7474:	YMCA
+7475:	The Navigators
+7476:	Spartan Robotics
+7477:	Super 7
+7478:	Boerne Stormin' Robots
+7479:	Red Hot Chili Bots - Red Team
+7480:	Coffee County High FTC Team
+7481:	BlazerBots
+7482:	DCepticons
+7483:	Littleton Robotics
+7484:	Enigmas
+7485:	RoboLions
+7486:	Suffern Robo Dwarves
+7487:	Dumbledore’s Army
+7488:	Suffern Doctors
+7489:	Brotherhood of Steel
+7490:	Indians
+7491:	Honey Badgers
+7492:	R^3 (Radical Renegade Roboticists)
+7493:	T b a 
+7494:	TBA
+7495:	Rocketman
+7496:	Natural Nerds
+7497:	Purple Galaxys
+7498:	Ace Robotics
+7499:	Operation Domination
+7500:	Robota White
+7501:	F.I.R.E.   
+7502:	Patriots
+7503:	Lightning Bolts
+7504:	TBD
+7505:	TheRoboAztechs
+7506:	Bombers
+7507:	S.W.A.T.
+7508:	Silicon Sentinels
+7509:	Blazer Robotics
+7510:	Legends
+7511:	Panthers
+7512:	Bulldogs
+7513:	EMS
+7514:	HSA HAWKS
+7515:	X-Men
+7516:	Roborines
+7517:	Wizards
+7518:	QO Team A
+7519:	QO Team B
+7520:	Munger Steel Panthers
+7521:	BERKBOTS
+7522:	warhawks
+7523:	Panthers
+7524:	Team Last Minute
+7525:	Eagles 
+7526:	SHS Robotics
+7527:	Golden Hawks
+7528:	Ipoly FIRST Robotics team aka Broncos
+7529:	BAY
+7530:	TBD
+7531:	Team Paradox²
+7532:	The Corps #1
+7533:	The Corps #2
+7534:	Robot Lions
+7535:	The Hilltoppers
+7536:	Gator Girls
+7537:	Gator Swag
+7538:	PI Crew
+7540:	Bullbots
+7541:	MULES
+7542:	OLP MicroChicks
+7543:	Coakleo
+7544:	Cyber Cougars
+7545:	Falcons 
+7546:	F,U
+7547:	JoeBotics
+7548:	Gummy Bears
+7549:	Hana Hou!
+7550:	Tweety Pies
+7551:	Moon Walk
+7552:	gfps robotics
 7553:	Thavma
 7555:	RoboZilla
+7556:	Inner City Circuits
+7557:	Mecha Makos Team #2
+7558:	GCYC Robotics
+7559:	Cyber Teens
+7560:	Wolfpack Robotics
+7561:	Techno 
+7563:	Drew Charter SR1
+7564:	Drew Charter SR2
+7565:	i-team
+7566:	Falcons 1
+7567:	falcons 2
+7568:	Evansville Robotics Team
+7569:	MES
+7570:	T.A.F.T.
+7571:	Dartmouth Dynasty
 7572:	Bomb Squad Special Unit
+7573:	Jarvis
+7574:	Swaggatronics
+7575:	Highlanders
+7576:	Blue Porcupines
+7577:	Transmission
+7578:	Girls Rule
+7579:	OSS Team 3
+7580:	6 1/2 Block Heads
+7581:	Honey Badgers
+7582:	Griffins
+7583:	Lakers
+7584:	WFS Quaker Up Robotics
+7585:	Artisinal Rocketeers
+7586:	Rocketeers
+7587:	Artisans
+7588:	The Pride
+7589:	The Heat
+7590:	Gulfstream STEManators
+7591:	Voltage of Imagination
+7592:	Roarbots
+7593:	TigerBots
+7594:	Zagbots
+7595:	Las Aguilas 2
+7596:	Metal Storm
+7597:	A-B Indians
+7598:	Loftis Robotics
+7599:	Aviators II
+7600:	Robotechs
 7601:	St Vincent St Mary Team 2
-7603:	Team5
+7602:	HSI Beta
+7603:	Team Friendship
+7604:	Team Starwhal
+7605:	Middle IMSA TIgers
+7606:	High IMSA TIgers
+7607:	Wall-E
+7608:	L&N STEMpunks
+7609:	Lions
+7610:	Tino Rush
+7611:	Mighty Oaks
+7612:	William Mason SIGROB
+7613:	Mustangs
+7614:	Robo Leopards
 7615:	Lutheran Mustangs
+7616:	Robo-Crazy
+7617:	Elemental Fusion
+7618:	Particle Raiders
+7619:	Robohawks
+7620:	Team 2
+7621:	π(Pi) Hards
+7622:	Forty-Two
+7623:	Girls
+7624:	RoboSabers
+7625:	Otus
+7626:	Grandview Middle School Bulldogs
+7627:	Jefferson
+7628:	ADVANCE TECH CREDIT TEAM
+7629:	mah nerds
+7630:	Vikings
+7631:	Exquisiteam
+7632:	BlockHeads
+7633:	TA Tigerbots
+7634:	Jr RUSH
+7635:	The Mason Robotics Team
+7636:	GearChangers
+7637:	Nifty Engineering Robotic Design Youth
+7638:	Bears
+7639:	Bulldogs
+7640:	Robo Tigers
+7641:	Betta Fish
+7642:	Cougars
+7643:	Tigers
+7644:	The Dare Devils
+7645:	BHS Robotics
+7646:	Circuit Overlords
+7647:	Success Academy
+7648:	Martin City Bulldogs
+7650:	The Circuit Breakers
+7651:	FTC - Dickinson
+7652:	Mustangs
+7653:	TechRangers
+7654:	Clark Preps
+7655:	The Q is Silqent
+7656:	Trilobots
+7657:	Automation Domination
+7658:	Robot Pi
+7659:	Blue Light Special
+7660:	Mad Scientist Club
+7661:	Team STEAM
+7662:	Dragons
+7663:	E-Lemon-ators
+7664:	Razor Gears
+7665:	TaskMasters 4-H Club
+7666:	Phantomechanix
+7667:	Tiger-Bots 2
+7668:	Trojanbots
+7669:	Circuits
+7670:	Panthers
+7671:	Warrior Bots
+7672:	KMS Seeds After School
 7673:	Dragons and Tiaras
+7674:	Ranken Gateway STEM Olympians!
 7675:	HPRHS
+7676:	Whidbey Island Wildcats
+7677:	Rockin' Robotics
+7678:	Mustangs
+7679:	Storm Robotics
+7680:	Bengals
+7681:	Robo Saints
+7682:	Knights
+7683:	The Iron Crusaders
+7684:	Young Bots
+7685:	The Magnificent Blue Hawks
+7686:	IDEA
+7687:	Technomancers
+7688:	Jr RUSH2
+7689:	Jr RUSH3
+7690:	MASH Triage Unit
+7691:	Jr RUSH4
+7692:	Jr RUSH5`
+7693:	Jr RUSH6
+7694:	Nerdvana
+7695:	Dia de Los Robots
+7696:	RSF Eagles
+7697:	Robo Rangers
+7698:	JuggerBot
+7699:	LHS R-B
+7700:	Hash Slinging Slashers
+7701:	Technical Difficulties
+7702:	LHS R-E
+7703:	LHS R-F
+7704:	Gold E Blocks
+7705:	Radioactive Chinchillas
+7706:	Saints
+7707:	Silent Bot Deadly
+7708:	Vortex
+7709:	The Vikings
+7710:	Hydra C
+7711:	Trinity Crowns
+7712:	Intelligents
+7713:	Hawks
+7714:	Cloud 9
+7715:	(RC) Squared
+7716:	Knight Tech Robotics
+7717:	Eagles2
+7718:	HIES Yerkes
+7719:	Team RISE
+7720:	Beyond Infinity
+7721:	The Saints
+7722:	Cougarbots
+7723:	U-Go Engineering
+7724:	Guardians
+7725:	NISMO
+7726:	Automatons
+7727:	Import *
+7728:	New-Matics
+7729:	Seahawk Robotics
+7730:	Robot
+7731:	Syeknom Rotom
+7732:	Techno Tigers
+7733:	BRUSA
+7734:	Swaggin' Dragons
+7735:	Mustang
+7736:	Campbell's Super Gnomes
+7737:	FVR2
+7738:	FVR3
+7739:	FVR4
+7740:	Primus Pilus
+7741:	Robo-Panthers
+7742:	Jaktd Jadda
+7743:	Lansing Bobcats
+7744:	4-H Tech Stars
+7745:	Improbable Phenomenon
+7746:	Sehome Sea Monsters
+7747:	Cougars
+7748:	Bronco Robots
+7749:	Lambots
+7750:	M&M's
+7751:	MHSHS1
+7752:	MHSHS2
+7753:	MHSHS3
+7754:	MHSHS4
+7755:	MHSHS5
+7756:	MHSHS6
+7757:	Friarbot Jr.
+7758:	Pandotics
+7759:	Velociraptor
+7760:	Megaraptor
+7761:	Junior Talons
+7762:	Dragon 2
+7763:	Dragon 3
+7764:	Dragon 4
+7765:	The Brainstormers
+7766:	Cyber Coltz
+7767:	Upper Echelon
+7768:	Confluence
+7769:	Jag Bots
+7770:	Real Steel
+7771:	Trinity's 6 Roboteers
+7772:	GRUPA
+7773:	Full Metal Mafia
+7774:	TWLC
+7775:	Stadium FTC
+7776:	Strange Array
+7777:	A-Team
+7778:	8th Grade A
+7779:	8th Grade D
+7780:	Bedford Panthers
+7781:	8th Grade G
+7782:	Evo Tech
+7783:	Electric Wave
+7784:	Tigers
+7785:	FB Pink Lady Hornets
+7786:	Blue Streak Innovators
+7787:	ROBO CAPS
 7788:	Travis Middle School Robotics
+7789:	FB Sting
+7790:	Tektonic Ninjas
+7791:	Hornets Tm 3
+7792:	Nindroids
+7793:	Page 365
 7794:	Turbo Drive
+7795:	Robot Masters
+7796:	Phi-thon
+7797:	8 Bit Bots
+7798:	LIGHTSABERS - Jedi Knights
+7799:	Autobotics
+7800:	Robo Design Pros
+7801:	Electric Eagles
+7802:	Challenge Accepted.
+7803:	Dinwiddie HS 
+7804:	NEBULA
+7805:	Ratchet Squad
+7806:	Cougarbytes
+7807:	Pink Dragons
+7808:	The Council
+7809:	Indians
 7810:	Motor Lutherans
+7811:	Phoenix Rising
+7812:	Troopers Blue
 7813:	Hawks FTC
+7814:	Eagles
+7815:	Mules
+7816:	Spudnik
+7817:	TaterBotz
+7818:	Skunk Works White
+7819:	Gold Seekers
+7820:	We the people ;-)
+7821:	REEF ROBOTICS
+7822:	Robosharks
+7823:	Roadrunner Robotics
+7824:	Eaglebots
+7825:	Happybots
+7826:	C:HAWKS
+7827:	Windsor High
+7828:	Robo Ducks
+7829:	Mighty Soph's
+7830:	Schrodingers Panthers
+7831:	Wreck It!
+7832:	Alumbot Asylum
+7833:	Built4Cause
+7834:	CMI Impact
+7835:	Chocolate Thunder
+7836:	Tech Prep
 7837:	The Thunder Colts
+7838:	Crimson Typhoon
+7839:	Terminators
+7840:	Hawks2
+7841:	Ballen Pretzels 2
+7842:	Browncoats
+7843:	Cyborg Narwhals
+7844:	Blue Devils
+7845:	Project Unlimited
+7846:	Rockin' Robots
+7847:	Hale Huskies
+7848:	Some Guys
+7849:	Bears
+7850:	AlkaKnight
+7851:	Omicron TroboBots
+7852:	Soaring Hawks
+7853:	EC Hornets
+7854:	Team Tesseract
+7855:	FHS xbot #4
+7856:	Green Army Robotics - Tactical Division
+7857:	Team Phoenix
+7858:	Team Trojan
+7859:	Pointless Jellyfish
+7860:	Gyro Bots
+7861:	S.U.P.R
+7862:	Ostentatious Ocelots 
+7863:	sioux falls rookies
+7864:	TerrorBytes
+7865:	wizard knights
+7866:	alien bolts
+7867:	Saints
+7868:	BB Tech Team
+7869:	Panthers
+7870:	Aragog's
+7871:	Gearbreakers
+7872:	Nanobots
+7873:	Celsius
+7874:	Hex Tech
+7875:	Men In Green
+7876:	Ghost Robotics 2
+7877:	HardWired β (Beta)
+7878:	Cougarbots
+7879:	CTF
+7880:	The Carnivorous Rabbits
+7881:	RoboHackers
+7882:	Boss Bots
+7883:	Penn Wood
+7884:	Cougars
+7885:	Sun Valley
+7886:	Delaware County 3
+7887:	Chester
+7888:	Delaware County 5 RoboChicks
+7889:	N3RD 3
+7890:	Space Lions
+7891:	Nanobots
+7892:	infinity
+7893:	Brickheads
+7894:	Knight Robotics
+7895:	Baldwin Brawlers
+7896:	T.E.A.M.
+7897:	EMPs
+7898:	I.C.E.
+7899:	Wait for it...
+7900:	The Pirates
+7901:	Jet Robotics
+7902:	Jet Robotics
+7903:	Jet Robotics
+7904:	Robotigers
+7905:	Jet Robotics
+7906:	ICE Squared
+7907:	Stark Industries
+7908:	Falcons
+7909:	ThunderBots
+7910:	Devilbots White Team
+7911:	NC GEARS
+7912:	EggsECUTION
+7913:	Warwick Robotics
+7914:	River Rats
+7915:	BlueJay Bots
+7916:	Griffons
+7917:	Bulldogs
+7918:	Bulldogs
+7919:	Jaguars 2
+7920:	Eagle Bots
+7921:	Mason County 4-H
+7922:	Pikeville High School
+7923:	Voyager 
+7924:	South Sioux City High School
+7925:	Tigerbot
+7926:	Lamar County Robotics
+7927:	Urbana Robotics
+7928:	Lopez FriesenBots
+7929:	Tiger Bots
+7930:	Viking Bot
+7931:	Metallic Thunder
+7932:	Robo Eagles
+7933:	THEE 7933
+7934:	Northern Lites Robotics
+7935:	Dragon 5
+7936:	Robo Unicorns 2.0
+7937:	The Hot Dogs
+7938:	Horizon1
+7939:	Enviro Bots2
+7940:	Enviro Bots3
+7941:	Enviro Bots4
+7942:	Wildcats Robotics
+7943:	STDA
+7944:	Rosabell
+7945:	PJ23
+7946:	PJ23 HS
+7947:	DECAbotz
+7948:	DaisyBots
+7949:	Comets 2
+7950:	BMS
+7951:	KAONs
+7952:	Aviators 3
+7953:	Vertigo
+7954:	Iron Teens
+7955:	Aluminum Sharks
+7956:	West Philadelphia High School
+7957:	7th grade OLMS Vikings
+7958:	8th Grade OLMS Vikings
+7959:	Cougar Cubs
+7960:	FSS Falcons
 7961:	Bulldogs
+7962:	Infinity
+7963:	Murrieta Springs Robotics Academy
+7964:	Sprockets
+7965:	Enderdragons
+7966:	Technonewbs
+7967:	Wahluke Warriors
+7968:	GEARS
+7969:	Iron Falcons
+7970:	GARN-Kennedy
+7971:	Undecided
+7972:	Columbia Power
+7973:	One and 'Oly
+7974:	Half & Half
+7975:	Techno-Spartans
+7976:	The PolkaBots
+7977:	Wolverines
+7978:	BadgerBOTS Verona 2
+7979:	Apple Tau by FIST
+7980:	Moon Truckers
+7981:	Munger Steel Wolves
+7982:	Munger T-Bots
+7983:	Untitled
+7984:	West County Robotics 2
+7985:	Team 2
+7986:	Block Breakers
+7987:	AA
 7988:	hound bots II
+7989:	Charlotte 100 First Tech
+7990:	GEARHEADS!
+7991:	Cookie Crushers
+7992:	Lightning Robotics
+7993:	Backward METS
+7994:	HCST
+7995:	Cyber Knights
+7996:	Optimus Prime Rib
+7997:	Electric Knights 2.0
+7998:	Falcons
+7999:	FrostByte
+8000:	Team Paradox3
+8001:	Cake Badgers
+8002:	Cheap Plastic
+8003:	ROCKFORD ROBOTECH 2
+8004:	Pirates
+8005:	Robot Renegades
+8006:	GatorBots
+8007:	Bulldog Robotic 2
+8008:	Wolves
+8011:	#celticrobotics
+8012:	WK Robotics
+8013:	Robotic Falcons
 8014:	Teen Titans
+8015:	Panthers
+8016:	Mechano-Spartans
+8017:	TechWarriors
+8018:	Cheese Biscuit
+8019:	Unwired
+8020:	Falcons
+8021:	TAFT ROCKETS
+8022:	WHS
+8023:	Outlaws 
+8024:	bearcats 2
+8025:	penguinrobotics
+8026:	Cedarcrest Robotics
+8027:	Mechanical Mayhem
+8028:	Bear in Mind Robotics
+8029:	Wildcats
+8030:	Steel Wings
+8031:	PatriotBot
+8032:	Darth Panthers Omega
+8033:	Tommies
+8034:	Easy as Pi
+8035:	Awesome O's
+8036:	ElectraCATS
+8037:	TechnoHawks2
 8039:	Adrenaline Snails
-8055:	Bolts on the Brain
+8040:	Boogie Down Bots
+8041:	Noobum Roboticum
+8042:	T.W.A.B.A.
+8043:	Bacon-Wrapped Fermions
+8044:	Stormers
+8045:	Gromit's Gromets
+8046:	Robo Bears
+8047:	Blazing Phoenix
+8048:	HSE TIGERS
+8049:	Robo Squad
+8050:	Newbs in Robotics Part 2
+8051:	GCHS Showtime Robotics
+8052:	Dalek
+8053:	Team CLUTCH
+8054:	La Canada Engineering Club II
+8055:	Rovatars
+8056:	Iron Men (Fe Male)
+8057:	Light Speed
+8058:	Tigers
+8059:	High Flying Hawks
+8060:	Dragonwhales 
+8061:	Mustangs
+8062:	GWHS
+8063:	Dragons
+8064:	NACAC EMBODI DreamChasers
+8065:	Iron Raiders
 8066:	Spartanbots
+8067:	King Cobras
+8068:	Piece Keepers
+8069:	Java Junkies
+8070:	RoboWolves
+8071:	iBot
+8072:	electro
+8073:	Quantum Chaos
+8074:	Lincoln High School 
+8075:	SVAH
+8076:	San Fernando
+8077:	Fourth Dimension
+8078:	Tiger Tron
+8079:	Bobcats
+8080:	Wildcats
+8081:	Knights of the Lab Table
+8082:	Team Rocket
+8083:	A Team
+8084:	B Team
 8085:	Circuit Breakers
+8086:	Sonic Boom
+8087:	Seahorse Stallions
+8088:	Team Cephalopods
+8089:	Kingswood Regional Middle School
+8090:	Wreck-Tech
+8091:	Road Kill Robotics
+8092:	Metal Tooth
+8093:	Cat-a-trons 
+8094:	Robotic Rampage
 8095:	Bulldogs
+8096:	Tiger Robotics
+8097:	Bobcats
+8098:	MetroBotics - Seniors
+8099:	Falcons
+8100:	Mission Control
+8101:	Chanhassen Knights
 8102:	Tech Knights
+8103:	EPSilon Robotics
+8104:	Las Tortas
+8105:	Ctrl Alt Destroy
 8106:	The Ladies
+8107:	DMA
+8108:	Alpha
+8109:	Team Beta
+8110:	Team Gamma
+8111:	nanoGIANTS
 8112:	R6-D3
+8113:	Team 2
+8114:	None Yet
+8115:	The Spartans
+8116:	Jaguars
+8117:	Bayside Overflow
+8118:	FTC Sample Team
+8119:	Robo-Dragons
+8120:	Electric Hornets
+8121:	Combustible Lemons
+8122:	Knights
+8123:	William James
+8124:	Cyber Syndicate
+8125:	Fox Lane Robotics
+8126:	Coordinated Chaos
+8127:	Cougars
+8128:	Maroons 2
+8129:	Cane Bots
 8130:	Vikings
+8131:	Centurions
+8132:	Gear Heads-COG
+8133:	Lakers 2
+8134:	French Toast Mafia
+8135:	Twilight Sparkle
+8136:	Raytown C2
+8137:	Dreamers
+8138:	RHS Robotix
+8139:	404 Team Not Found
+8140:	Heelan
+8141:	Hashslinging Slashers
+8142:	Mounties
+8143:	JagPrime
+8144:	Transformators
+8145:	Brighton Robotics
+8146:	Media FTC
+8147:	TBD
 8148:	Aleph Bots
 8149:	Red Alert: Panic in the Build Room
+8150:	Team_
+8151:	TEAM JOMOS
 8152:	Portland Cybernetics
+8153:	Modern Americans
+8154:	Gort
+8155:	Titanium Militia
+8156:	FTC BEAUMONT
+8157:	Puma Pride
+8158:	Patriot 2
+8159:	Club 1
+8160:	Club 12
+8161:	Chieftain Robotics
+8162:	TBD
+8163:	TBD2
+8164:	TBD3
 8165:	TDMS 4H Hallway Engineers
+8166:	TBD4
+8167:	RoboSTEM
+8168:	Eagles
+8169:	Hood River MS Engineering 1
+8170:	E2
+8171:	Rangerbots
+8172:	Robo Rangers
+8173:	Eagles
+8175:	Saints
+8176:	Elements
+8177:	Lions
+8178:	MACTC PM
+8179:	Spartans
+8180:	Deception
+8181:	RoboDuckies
+8182:	Dream Destroyers
+8183:	N/A
+8184:	N/A
+8185:	N/A
+8186:	N/A
+8187:	Robopythons
+8188:	Gear Heads - Sprocketz
+8189:	Warren County 4H Robotics
+8190:	Adeptus Mechanicus
+8191:	Skynet
+8192:	Skynet
+8193:	Gladiators
+8194:	Gators 2
+8195:	Knights
+8196:	Owls
+8197:	BARC
+8198:	AFSE-bots
+8199:	AFSE-bots2
+8200:	BASE Robotics
+8201:	BASE
+8202:	Wired Wildcats
+8203:	FishBots
+8204:	Wylie East Robotics
+8205:	the Cobrots
+8206:	Hornets
+8208:	TROJANS
+8209:	GEMs
+8210:	LOHI Robotics League
+8211:	RoboLancers
+8212:	Roboz Locoz
+8213:	Rustlers
+8214:	Dark Horse Robotics
+8215:	Trailblazer
+8216:	The Greene Machine
+8217:	Digital Falcons
+8218:	Robo-Dragons
+8219:	columbia
+8220:	Commanders
 8221:	Cubix
-8275:	Tech Busters
+8222:	KUVA
+8223:	Ug 2.0
+8224:	GirlTech
+8225:	Bobby Jr.
+8226:	Thunder Storm
+8227:	Enginuity
+8228:	Rambot
+8229:	GENESIS
+8230:	Team FLA
+8231:	Skyhawks
+8232:	Black Team
+8233:	Eagle Warriors
+8234:	Warriors 1
+8235:	Warriors 2
+8236:	Wildcat Robotics
+8237:	Saints
+8238:	Beaver Robotics
+8239:	Vicious Vassar Vulcans
+8240:	Redhawks
+8241:	Robotics
+8242:	North Side High School
+8243:	Giantbots
+8244:	Team Derek
+8245:	CohBots
+8246:	Robotics Club
+8247:	Toltech T-STEM BELL
+8248:	Toltech T-STEM Fleming
+8249:	Toltech T-STEM MARCONI
+8250:	Toltech T-STEM WESTINGHOUSE
+8251:	Toltech T-STEM WHITNEY
+8252:	Toltech T-STEM WRIGHT
+8253:	arc@JFK.edu
+8254:	Spartanators
+8255:	Owensboro High School
+8256:	Bright Shiny Things
+8257:	FC Robotics
+8258:	Roughnecks
+8259:	OMS
+8260:	Lobotics
+8261:	The Holy Controllers
+8262:	D'Evelyn Jags
+8263:	TBD
+8264:	Robotics2
+8265:	Robotics3
+8266:	Longhorns
+8267:	Cobalt Cobras
+8268:	STEM Access
+8269:	Blockbusters
+8270:	Styx and Stones
+8271:	Holly Hand Grenades
+8272:	Sparks
+8273:	Patriots
+8274:	Hackers
+8275:	Brick Busters
+8276:	Lions
+8277:	IDEA
+8278:	Hutch
+8279:	MASH Potatoes
+8280:	Robominers II
+8281:	TechSwan
+8282:	Bearatroopers
+8283:	UHS Trojan Robotics
+8284:	Dem Girls
+8285:	Falconators
+8286:	Smartlogic
+8290:	Techie Tigers
+8291:	Bulldog Robotics
+8292:	TBD
+8293:	TBD
+8294:	The Oysters
 8295:	Baron Engineers
-8365:	Gear Masters
-8366:	CrossFire
-8367:	The cali bots
-8368:	The Edison Code Ninjas
-8369:	Tigers Robotics
-8370:	Robocubs
-8371:	Awesome Aliens
-8372:	Argonauts
-8373:	Diva Force
-8374:	Orange
-8375:	Vulcan Robotics
-8376:	Team TACO
-8377:	Battlefield Wolves
-8378:	Awesome Socks!
-8379:	The Parity Bits
-8380:	TBD
-8381:	M
-8382:	TEDDY Bots
-8383:	SJS3
-8384:	The 'Big Red' Eye Guys
-8385:	TechnoMonkeys
-8386:	RoboHawks
-8387:	Biohazardous
-8388:	Robotic Raptors
-8389:	BHS
-8390:	Nerd Herd
-8391:	W-Prime Robotics
-8392:	McFlair Bots      
-8393:	BrainSTEM
-8394:	BJH Eagles
-8395:	Allegany Robotics
-8396:	SECRET TEAM
-8397:	Beta
-8398:	The Big Bot Theory
-8399:	Austin Robotics Club Enigma
-8400:	Iron County 4H
-8401:	McNair Robotics
-8402:	Challengers
-8403:	Bot Masters
-8404:	Quixilver
-8405:	Miller Robotics
-8406:	Filthy Horde
-8407:	MS Sion Lions
-8408:	Carman
-8409:	Leonidas
-8410:	Corinthians
-8411:	Spring Hill Bots
-8412:	Gryphons
-8413:	Mod Squard
-8414:	Lynx Robotics
-8415:	ANCroid
-8416:	RoboHawks White
-8417:	'Lectric Legends
-8418:	The League of Legendary Scientists
-8419:	Futures
-8420:	Wally
-8421:	Tiger Cubs
-8422:	Green
-8423:	Blazing Bots
-8424:	Robotic Eagles
-8425:	Divastatorz
-8426:	TechTigers
-8427:	The ROwBOaTS
-8428:	Wasps
-8429:	TBD
-8430:	horizonbots
-8431:	TechNOBLE
-8432:	Thriller Builders
-8433:	CyberStingers Green
-8434:	Lions
-8435:	7435N
-8436:	4575W
-8437:	TekWolves Too
-8438:	Quantum Leap
-8439:	Aperture Scientists
-8440:	COUGARS
-8441:	Total Reboot
-8442:	MVU #1
-8443:	STEM 91
-8444:	STEM 92
-8445:	STEM 93
-8446:	Blue Devils
-8447:	SPEAR
-8448:	Mt. Olive 1
-8449:	Mt. Olive 2
-8450:	Mt. Olive 3
-8451:	Mt. Olive 4
-8452:	Mt. Olive 5
-8453:	Mt. Olive 6
-8454:	Mt. Olive 7
-8455:	Mt. Olive 8
-8456:	Mt. Olive 9
-8457:	Mt. Olive 10
-8458:	Mt. Olive 11
-8459:	Mt. Olive 12
-8460:	Mt. Olive 13
-8461:	Elementary  My Dear Botson
-8462:	Mammoth Falls Mad Scientists
-8463:	Martinsburg High Robotics
-8464:	MMSA
-8465:	Cedar Canyon Robotics
-8466:	LORA FTC2
-8467:	FBHS Robotics
-8468:	The Iron Struct
-8469:	JABOTs
-8470:	BCCS Robotics
-8471:	WCA NEW TEAM 1
-8472:	Occam's Razor
-8473:	Don't Know
-8474:	Future Flyers
-8475:	The Dudes Abide
-8476:	Chunky Bears
-8477:	Rohming Robots
-8478:	Techie Harts
-8479:	Number 5
-8480:	Technobots
-8481:	Robo-masterminds
-8482:	Robobucs
-8483:	FST2
-8484:	Bloodhounds
-8485:	CouBOTS
-8486:	TBD
-8487:	Robo Toasters
-8488:	SJS4
-8489:	OverStuffed Dragons
-8490:	Mamaroneck Tigers
-8491:	FTC Team #1
-8492:	TroBots
-8493:	JH Hornets
-8494:	Epsilon Pi
-8495:	Team 2
-8496:	Heat It Up and Keep It Cool
-8497:	Irobot
-8498:	The Evil Purple Sox
-8499:	Willams Field Black Hawks
-8500:	Luperon Team 1
-8501:	Luperon Team 2
-8502:	Luperon Team 3
-8503:	Luperon Team 4
-8504:	Eco-logical
-8505:	HighTechLanders
-8506:	One Hundred Black Men
-8507:	Team 1
-8508:	Team 2
-8509:	8th Grade Techs
-8510:	Tech Titans
-8511:	Middle School Greenhills Techies
-8512:	Kalamazoo Robotics
-8513:	SJ Bears
-8514:	Cougars 1
-8515:	MPCMS Panthers
-8516:	OHBM2
-8517:	O.R.E.O.
-8518:	POLAR BEARS
-8519:	McCann Tech Robotics
-8520:	Robo Chiefs - C
-8521:	The Hooligans
-8522:	JV Chatham High
-8523:	Nicolet High School
-8524:	Nicolet High School
-8525:	Nicolet High School
-8526:	Metal Parts
-8527:	MI6
-8528:	Rhyme Know Reason
-8529:	Team R.O.B.O.T.I.C.S.
-8530:	Exit 5 Robotics
-8531:	Roboknights
-8532:	Falcons
-8533:	CSPA Stars
-8534:	Crickets
-8535:	TechnoCookies
-8536:	RoboSapiens
-8537:	Dragon-bots
-8538:	Lick Robotics
-8539:	Bazinga Bots
-8540:	Paws of Fury
-8541:	YlasterBots
-8542:	Freshmen
-8543:	Class Matters 
-8544:	Rutland
-8545:	Avatars
-8546:	Cougars
-8547:	DERPA
-8548:	The Referees
-8549:	Lincoln Cougar Robotics
-8550:	Saydel STEM
-8551:	STEMHQ
-8552:	Arrows Too
-8553:	Stryke Force II
-8554:	STEM ECHS 6
-8555:	STEM ECHS 4
-8556:	STEM ECHS 2
-8557:	STEM ECHS 5
-8558:	STEM ECHS 3
-8559:	STEM ECHS 1
-8560:	Home School
-8561:	Comet Robotics
-8562:	Wolverines
-8563:	Team 3
-8564:	Lockdown
-8565:	TechnicBots
-8566:	Firebirds
-8567:	RoboNerdz
-8568:	Ranger Robotics Beta
-8569:	RoboKnights
-8570:	InFALAbles
-8571:	Sr Mindstorm Magicians
-8572:	WUHS
-8573:	Zombie Robots
-8574:	Freshman Chatham
-8575:	Eureka TeamA
-8576:	Bulldogs
-8577:	BASIS FTC
-8578:	Central Middle School FTC
-8579:	Bedford Junior High New
-8580:	Oakview Robotics
-8581:	KSSRobotics
-8582:	Bryn Mawrtians
-8583:	Heat It Up and Keep It Cool Too
-8584:	St. Mike's FTC TBD
-8585:	Rochester
-8586:	Wolverines
-8587:	Spontaneous Combustion
-8588:	Central Sabers
-8589:	JC Bot Squad
-8590:	Bear Mettle
-8591:	Wit, Spit and Duct Tape
-8592:	PBA 2
+8296:	The Falcons
+8297:	Geared UP!
+8298:	Bunker Hill BLUE
+8299:	Bunker Hill RED
+8300:	East LIncoln Middle School
+8301:	Brown and Carlile
+8302:	Robotic  Longhorns
+8303:	Techno Dragons
+8304:	Wired Cats
+8305:	BSGE Swarm
+8306:	Danville Engineering Club
+8307:	Bob or Else
+8308:	Raptoids
+8309:	Team Voyage
+8310:	Team Voyage
+8311:	Technicasualties
+8312:	Hornets
+8313:	HSI Tigers
+8314:	Team 3
+8315:	Boone County 4 H
+8316:	Robstown Robotics
+8317:	Big Bears
+8318:	MA Robotics
+8319:	Bots of Prey                                                                   
+8320:	Wildcats
+8321:	Wildcats
+8322:	Mustangs II
+8323:	Vikings
+8324:	Edison Robotics 
+8325:	RoboBaymen
+8332:	gvvcvvv
+8333:	Lego My Eggo
+8334:	O.W.L.S.1
+8335:	O.W.L.S. 2
+8340:	RoboRaptors
+8341:	Vicksburg Victors Advanced
+8342:	All Star Comets
+8344:	TBD
+8345:	Red Devils
+8346:	Poly Robotics Club
+8353:	The Know Ship
+8354:	CanaBot
+8355:	NET ZERO
+8358:	Gryphon
+8362:	AutoVortex
+8363:	Watt’s Up!

@@ -22,3 +22,7 @@ Makefile
 # icons
 
 *.png
+
+# webpages :P
+
+/team-info/*/*.htm
