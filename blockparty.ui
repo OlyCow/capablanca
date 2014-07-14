@@ -7,7 +7,7 @@
     <x>0</x>
     <y>0</y>
     <width>660</width>
-    <height>566</height>
+    <height>575</height>
    </rect>
   </property>
   <property name="windowTitle">
@@ -173,7 +173,14 @@
           <number>0</number>
          </property>
          <item row="0" column="0">
-          <widget class="QGraphicsView" name="graphicsView_main"/>
+          <widget class="QGraphicsView" name="graphicsView_main">
+           <property name="verticalScrollBarPolicy">
+            <enum>Qt::ScrollBarAlwaysOff</enum>
+           </property>
+           <property name="horizontalScrollBarPolicy">
+            <enum>Qt::ScrollBarAlwaysOff</enum>
+           </property>
+          </widget>
          </item>
         </layout>
        </widget>
@@ -400,6 +407,9 @@
         </item>
         <item>
          <widget class="QPushButton" name="pushButton_undo">
+          <property name="enabled">
+           <bool>false</bool>
+          </property>
           <property name="sizePolicy">
            <sizepolicy hsizetype="Fixed" vsizetype="Fixed">
             <horstretch>0</horstretch>
@@ -429,6 +439,9 @@
         </item>
         <item>
          <widget class="QPushButton" name="pushButton_redo">
+          <property name="enabled">
+           <bool>false</bool>
+          </property>
           <property name="sizePolicy">
            <sizepolicy hsizetype="Fixed" vsizetype="Fixed">
             <horstretch>0</horstretch>
@@ -529,7 +542,14 @@
             <number>0</number>
            </property>
            <item row="0" column="0">
-            <widget class="QGraphicsView" name="graphicsView_predict"/>
+            <widget class="QGraphicsView" name="graphicsView_predict">
+             <property name="verticalScrollBarPolicy">
+              <enum>Qt::ScrollBarAlwaysOff</enum>
+             </property>
+             <property name="horizontalScrollBarPolicy">
+              <enum>Qt::ScrollBarAlwaysOff</enum>
+             </property>
+            </widget>
            </item>
           </layout>
          </widget>
@@ -1135,7 +1155,7 @@ background-color: red;</string>
          </size>
         </property>
         <property name="currentIndex">
-         <number>0</number>
+         <number>2</number>
         </property>
         <property name="tabSpacing">
          <number>0</number>
@@ -1146,7 +1166,7 @@ background-color: red;</string>
            <x>0</x>
            <y>0</y>
            <width>252</width>
-           <height>388</height>
+           <height>397</height>
           </rect>
          </property>
          <attribute name="label">
@@ -1978,7 +1998,7 @@ background-color: red;</string>
            <x>0</x>
            <y>0</y>
            <width>252</width>
-           <height>388</height>
+           <height>397</height>
           </rect>
          </property>
          <attribute name="label">
@@ -2414,13 +2434,26 @@ background-color: red;</string>
            <x>0</x>
            <y>0</y>
            <width>252</width>
-           <height>388</height>
+           <height>397</height>
           </rect>
          </property>
          <attribute name="label">
           <string>Penalties</string>
          </attribute>
          <layout class="QVBoxLayout" name="verticalLayout_2">
+          <item>
+           <spacer name="verticalSpacer">
+            <property name="orientation">
+             <enum>Qt::Vertical</enum>
+            </property>
+            <property name="sizeHint" stdset="0">
+             <size>
+              <width>20</width>
+              <height>40</height>
+             </size>
+            </property>
+           </spacer>
+          </item>
           <item>
            <layout class="QGridLayout" name="gridLayout_penalties">
             <property name="spacing">
